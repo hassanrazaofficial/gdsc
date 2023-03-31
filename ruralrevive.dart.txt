@@ -1,0 +1,10494 @@
+TextButton(
+// frame28QvF (85:203)
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+width:  double.infinity,
+height:  844*fem,
+decoration:  BoxDecoration (
+color:  Color(0xff00343f),
+),
+child:  
+Stack(
+children:  [
+Positioned(
+// mapofworldontransparentbackgro (85:217)
+left:  0.4594726562*fem,
+top:  92.3486480713*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  375.54*fem,
+height:  731.57*fem,
+child:  
+Image.network(
+[Image url]
+fit:  BoxFit.cover,
+),
+),
+),
+),
+Positioned(
+// ruralrevive6wV (94:569)
+left:  117.5*fem,
+top:  337*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  149*fem,
+height:  147*fem,
+child:  
+Text(
+'Rural Revive',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Satisfy',
+fontSize:  61*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.201999977*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+],
+),
+),
+),
+Container(
+// frame5wJb (30:57)
+padding:  EdgeInsets.fromLTRB(30*fem, 82*fem, 34*fem, 146*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffffffff),
+),
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// ruralreviveYJP (30:69)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 12*fem, 37*fem),
+constraints:  BoxConstraints (
+maxWidth:  149*fem,
+),
+child:  
+Text(
+'Rural Revive',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Satisfy',
+fontSize:  61*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.201999977*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+Container(
+// autogroupkc83YSo (WFU21meNJ2RiZVvcDPKc83)
+margin:  EdgeInsets.fromLTRB(3*fem, 0*fem, 1*fem, 35*fem),
+padding:  EdgeInsets.fromLTRB(12*fem, 22*fem, 12*fem, 11*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xfff6f6f6),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Email',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  18*ffem,
+fontWeight:  FontWeight.w300,
+height:  1.2019999822*ffem/fem,
+color:  Color(0xffadabab),
+),
+),
+),
+Container(
+// autogrouppxf1Mf9 (WFU29garFcsZvij6v5PXF1)
+margin:  EdgeInsets.fromLTRB(4*fem, 0*fem, 0*fem, 52*fem),
+padding:  EdgeInsets.fromLTRB(12*fem, 22*fem, 12*fem, 11*fem),
+width:  322*fem,
+decoration:  BoxDecoration (
+color:  Color(0xfff6f6f6),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Password',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  18*ffem,
+fontWeight:  FontWeight.w300,
+height:  1.2019999822*ffem/fem,
+color:  Color(0xffadabab),
+),
+),
+),
+Container(
+// autogroupnev795D (WFU2HM2kMqUNWhh7r8nEv7)
+margin:  EdgeInsets.fromLTRB(26*fem, 0*fem, 16*fem, 14*fem),
+width:  double.infinity,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// forgotpasswordSa7 (30:67)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 3*fem, 0*fem),
+child:  
+Text(
+'Forgot Password?',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Karla',
+fontSize:  16*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.6875*ffem/fem,
+decoration:  TextDecoration.underline,
+color:  Color(0xff0495ff),
+decorationColor:  Color(0xff0495ff),
+),
+),
+),
+TextButton(
+// orcreateanaccountWK5 (30:68)
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+RichText(
+text:  
+TextSpan(
+style:  SafeGoogleFont (
+'Karla',
+fontSize:  16*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.6875*ffem/fem,
+decoration:  TextDecoration.underline,
+color:  Color(0xff0495ff),
+decorationColor:  Color(0xff0495ff),
+),
+children:  [
+TextSpan(
+text:  'Or',
+style:  SafeGoogleFont (
+'Karla',
+fontSize:  16*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.6875*ffem/fem,
+decoration:  TextDecoration.underline,
+color:  Color(0xff0495ff),
+decorationColor:  Color(0xff0495ff),
+),
+),
+TextSpan(
+text:  ' Create an Account',
+),
+],
+),
+),
+),
+],
+),
+),
+Container(
+// autogroupqzbhRis (WFU2RLoRbtXuULSSUNQZBh)
+margin:  EdgeInsets.fromLTRB(143*fem, 0*fem, 166*fem, 27*fem),
+width:  double.infinity,
+height:  27*fem,
+child:  
+Stack(
+children:  [
+Positioned(
+// orVij (30:65)
+left:  0*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  17*fem,
+height:  27*fem,
+child:  
+Text(
+'Or',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Karla',
+fontSize:  16*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.6875*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+),
+),
+Positioned(
+// ork8s (30:66)
+left:  0*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  17*fem,
+height:  27*fem,
+child:  
+Text(
+'Or',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Karla',
+fontSize:  16*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.6875*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+),
+),
+],
+),
+),
+Container(
+// autogroupguzz26P (WFU2Yqaw9BuLsVWoZLgUZZ)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 4*fem, 22*fem),
+padding:  EdgeInsets.fromLTRB(45*fem, 14*fem, 72.5*fem, 14*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffc7c4c4)),
+),
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// googleHHD (30:63)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 6.5*fem, 0*fem),
+width:  39*fem,
+height:  31*fem,
+child:  
+Image.network(
+[Image url]
+fit:  BoxFit.cover,
+),
+),
+Text(
+// continuewithgooglea1R (30:64)
+'Continue with Google',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Karla',
+fontSize:  16*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.6875*ffem/fem,
+color:  Color(0xff2e2d2d),
+),
+),
+],
+),
+),
+Container(
+// autogroupqjebsWK (WFU2nfXEFN2fN2RxofQjEb)
+margin:  EdgeInsets.fromLTRB(3*fem, 0*fem, 1*fem, 0*fem),
+padding:  EdgeInsets.fromLTRB(42*fem, 19*fem, 56.5*fem, 9*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffc7c4c4)),
+),
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// jshjwdremovebgpreview1xGs (32:317)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 8.85*fem, 0*fem),
+width:  35.65*fem,
+height:  31*fem,
+child:  
+Image.network(
+[Image url]
+fit:  BoxFit.cover,
+),
+),
+Container(
+// continuewithfacebookq5m (32:316)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 4*fem),
+child:  
+Text(
+'Continue with Facebook',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Karla',
+fontSize:  16*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.6875*ffem/fem,
+color:  Color(0xff2e2d2d),
+),
+),
+),
+],
+),
+),
+],
+),
+),
+TextButton(
+// frame15Wm9 (41:6)
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+padding:  EdgeInsets.fromLTRB(45*fem, 78*fem, 51*fem, 476*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffffffff),
+),
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// accounttypetFu (41:7)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 57*fem),
+child:  
+Text(
+'Account Type',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  27*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.2020000882*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+Container(
+// areyouaprovideroraseekerK6K (119:72)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 92*fem),
+child:  
+Text(
+'Are you a provider or a seeker?',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  20*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+Container(
+// component4nVh (120:200)
+margin:  EdgeInsets.fromLTRB(27*fem, 0*fem, 69*fem, 17*fem),
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+padding:  EdgeInsets.fromLTRB(0*fem, 0*fem, 75*fem, 0*fem),
+width:  double.infinity,
+height:  33*fem,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// rectangle60czX (I120:200;120:138)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 15*fem, 4*fem),
+width:  29*fem,
+height:  29*fem,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(53*fem),
+border:  Border.all(color Color(0xff000000)),
+color:  Color(0xffffffff),
+),
+),
+Container(
+// seekerJMZ (I120:200;120:137)
+margin:  EdgeInsets.fromLTRB(0*fem, 2*fem, 0*fem, 0*fem),
+child:  
+Text(
+'Provider',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  20*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+],
+),
+),
+),
+),
+Container(
+// component3aK5 (120:147)
+margin:  EdgeInsets.fromLTRB(27*fem, 0*fem, 69*fem, 0*fem),
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+padding:  EdgeInsets.fromLTRB(0*fem, 0*fem, 88*fem, 0*fem),
+width:  double.infinity,
+height:  33*fem,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// autogroup5zmrqF1 (WFU9B9YaUUX4UP3B5t5zMR)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 15*fem, 4*fem),
+padding:  EdgeInsets.fromLTRB(7*fem, 7*fem, 7*fem, 7*fem),
+width:  29*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xff000000)),
+color:  Color(0xffffffff),
+borderRadius:  BorderRadius.circular(53*fem),
+),
+child:  
+Center(
+// rectangle60VqM (120:186)
+child:  
+SizedBox(
+width:  double.infinity,
+height:  15*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(53*fem),
+border:  Border.all(color Color(0xff000000)),
+color:  Color(0xff006177),
+),
+),
+),
+),
+),
+Container(
+// seekerPvj (I120:147;120:137)
+margin:  EdgeInsets.fromLTRB(0*fem, 2*fem, 0*fem, 0*fem),
+child:  
+Text(
+'Seeker',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  20*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+],
+),
+),
+),
+),
+],
+),
+),
+),
+Container(
+// frame14gdq (39:577)
+padding:  EdgeInsets.fromLTRB(15*fem, 78*fem, 16*fem, 72*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffffffff),
+),
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// personalinformationtV1 (39:578)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 2*fem, 67*fem),
+child:  
+Text(
+'Personal Information',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  27*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.2020000882*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+Container(
+// autogroupefbz88T (WFU7Ts4gDVBMEGGGfJEFBZ)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 1*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Full Name',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroupkke7HQf (WFU7cXUujDALwCaCftKke7)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Email',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroupoggsXK1 (WFU7jc7SrDTNNHvS98ogGs)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 1*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Phone Number',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroup5bejmUF (WFU7s6txPWpomSzoE75bej)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Password',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroup95poQn7 (WFU83r63ziBsJhwPKJ95po)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 148*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Confirm Password',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// group42ewM (120:152)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 10*fem, 43*fem),
+padding:  EdgeInsets.fromLTRB(8*fem, 0*fem, 8*fem, 0*fem),
+width:  double.infinity,
+height:  36*fem,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(8*fem),
+),
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// autogroupq4kmiRR (WFU8jumdVS7DhHcpN1q4KM)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 192*fem, 0*fem),
+width:  70*fem,
+height:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0x82d9d9d9),
+borderRadius:  BorderRadius.circular(8*fem),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+child:  
+Center(
+child:  
+Text(
+'Back',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+Container(
+// autogroupvpsrByD (WFU8qpmSe1ngpbjUueVPsR)
+width:  70*fem,
+height:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0x82d9d9d9),
+borderRadius:  BorderRadius.circular(8*fem),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+child:  
+Center(
+child:  
+Text(
+'Next',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+],
+),
+),
+Container(
+// autogroupqafmDf1 (WFU8EB8BBcUWsu9qnmQaFm)
+margin:  EdgeInsets.fromLTRB(70*fem, 0*fem, 69*fem, 0*fem),
+padding:  EdgeInsets.fromLTRB(3*fem, 0*fem, 3*fem, 0*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffd9d9d9),
+borderRadius:  BorderRadius.circular(47*fem),
+),
+child:  
+Align(
+// rectangle53hKH (120:82)
+alignment:  Alignment.centerLeft,
+child:  
+SizedBox(
+width:  61*fem,
+height:  12*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(47*fem),
+color:  Color(0xff006177),
+),
+),
+),
+),
+),
+],
+),
+),
+Container(
+// frame176Hq (42:94)
+padding:  EdgeInsets.fromLTRB(15*fem, 78*fem, 16*fem, 72*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffffffff),
+),
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// additionalinformationuWB (42:95)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 12*fem, 68*fem),
+child:  
+Text(
+'Additional Information',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  27*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.2020000882*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+Container(
+// autogroupyncbkFu (WFUBoA1dMwHtHqB6stYNcB)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Address',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroup5uv7N2P (WFUBwjbfbCfCQMYCxw5Uv7)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 1*fem, 20*fem),
+width:  358*fem,
+height:  55*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Center(
+child:  
+Text(
+'Type of events you are interested in attending',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+Container(
+// autogroupzqyso7h (WFUC4pECiCxDqStSSBZQYs)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 20*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Align(
+// locationswhereyouareinterested (42:106)
+alignment:  Alignment.centerLeft,
+child:  
+SizedBox(
+child:  
+Container(
+constraints:  BoxConstraints (
+maxWidth:  267*fem,
+),
+child:  
+Text(
+'Locations where you are interested in attending events',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+),
+),
+Container(
+// autogroupvxtpv5q (WFUCBjCMGJ1t5iM24LvXtP)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 1*fem, 20*fem),
+width:  358*fem,
+height:  55*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Center(
+child:  
+Text(
+'Age range of attendees you are looking for',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+Container(
+// autogroupwglbYsu (WFUCJ9BL7dPSmW8e9EwGLB)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 109*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 34*fem, 20*fem),
+width:  358*fem,
+height:  74*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Center(
+// specialneedsoraccommodationsre (42:102)
+child:  
+SizedBox(
+child:  
+Container(
+constraints:  BoxConstraints (
+maxWidth:  307*fem,
+),
+child:  
+Text(
+'Special needs or accommodations required for attendees',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+),
+),
+Container(
+// group42soh (120:157)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 9*fem, 42*fem),
+width:  348*fem,
+height:  36*fem,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(8*fem),
+),
+child:  
+Stack(
+children:  [
+Positioned(
+// rectangle28ZwR (120:158)
+left:  270*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  70*fem,
+height:  36*fem,
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(8*fem),
+color:  Color(0x82d9d9d9),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+),
+Positioned(
+// nextnpB (120:159)
+left:  288*fem,
+top:  9*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  34*fem,
+height:  19*fem,
+child:  
+Text(
+'Next',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+),
+Positioned(
+// rectangle383VD (120:160)
+left:  8*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  70*fem,
+height:  36*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(8*fem),
+color:  Color(0x82d9d9d9),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// back6iP (120:161)
+left:  25.5*fem,
+top:  9*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  35*fem,
+height:  19*fem,
+child:  
+Text(
+'Back',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+),
+Positioned(
+// group43yGP (120:162)
+left:  0*fem,
+top:  0*fem,
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+padding:  EdgeInsets.fromLTRB(8*fem, 0*fem, 8*fem, 0*fem),
+width:  348*fem,
+height:  36*fem,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(8*fem),
+),
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// autogroupblzfpXu (WFUCpD9ZZHUsxYNvQfbLzF)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 192*fem, 0*fem),
+width:  70*fem,
+height:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0x82d9d9d9),
+borderRadius:  BorderRadius.circular(8*fem),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+child:  
+Center(
+child:  
+Text(
+'Back',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+Container(
+// autogroupfh473Qf (WFUCuHqRsH1X9j3Kirfh47)
+width:  70*fem,
+height:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0x82d9d9d9),
+borderRadius:  BorderRadius.circular(8*fem),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+child:  
+Center(
+child:  
+Text(
+'Next',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+],
+),
+),
+),
+),
+],
+),
+),
+Container(
+// autogroupgol7VGf (WFUCQJfj7auxg45nTWGoL7)
+margin:  EdgeInsets.fromLTRB(70*fem, 0*fem, 69*fem, 0*fem),
+width:  double.infinity,
+height:  13*fem,
+child:  
+Stack(
+children:  [
+Positioned(
+// rectangle56bab (120:85)
+left:  0*fem,
+top:  1*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  220*fem,
+height:  12*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(47*fem),
+color:  Color(0xffd9d9d9),
+),
+),
+),
+),
+),
+Positioned(
+// rectangle57HCX (120:86)
+left:  0*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  111*fem,
+height:  12*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(47*fem),
+color:  Color(0xff006177),
+),
+),
+),
+),
+),
+],
+),
+),
+],
+),
+),
+Container(
+// frame186YK (42:111)
+padding:  EdgeInsets.fromLTRB(15*fem, 78*fem, 16*fem, 72*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffffffff),
+),
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// setyourprofilei3u (42:112)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 42*fem),
+child:  
+Text(
+'Set Your Profile',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  27*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.2020000882*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+Container(
+// autogroup731vZ4X (WFUDKMyestood3E7X7731V)
+margin:  EdgeInsets.fromLTRB(131*fem, 0*fem, 148*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(25*fem, 18*fem, 25*fem, 24*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+image:  DecorationImage (
+fit:  BoxFit.cover,
+image:  NetworkImage (
+[Image url]
+),
+),
+),
+child:  
+Center(
+// vectorDPy (42:127)
+child:  
+SizedBox(
+width:  30*fem,
+height:  35*fem,
+child:  
+Image.network(
+[Image url]
+width:  30*fem,
+height:  35*fem,
+),
+),
+),
+),
+Container(
+// uploadprofilephototm1 (42:128)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 14*fem, 55*fem),
+child:  
+Text(
+'Upload Profile Photo',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  18*ffem,
+fontWeight:  FontWeight.w300,
+height:  1.2019999822*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+Container(
+// autogroupq7n3BEK (WFUDWSVXcvdbXwx1JUQ7n3)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Social Media Links ',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroupnpztoFh (WFUDhmVzDLJSE6WNrUNPzT)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 1*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Interests or Hobbies',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroupfuhuEM1 (WFUDr1mFJmD1xy6BFLfuhu)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 149*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Occupation or Field of Study',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// group44Fmu (120:167)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 10*fem, 43*fem),
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+padding:  EdgeInsets.fromLTRB(8*fem, 0*fem, 8*fem, 0*fem),
+width:  double.infinity,
+height:  36*fem,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(8*fem),
+),
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// autogroup3d6kTsy (WFUELFTCWKmS6vYHCo3D6K)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 192*fem, 0*fem),
+width:  70*fem,
+height:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0x82d9d9d9),
+borderRadius:  BorderRadius.circular(8*fem),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+child:  
+Center(
+child:  
+Text(
+'Skip',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+),
+),
+Container(
+// autogroup7zabrv7 (WFUERL94pKJ5J7CgWz7ZAB)
+width:  70*fem,
+height:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0x82d9d9d9),
+borderRadius:  BorderRadius.circular(8*fem),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+child:  
+Center(
+child:  
+Text(
+'Next',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+],
+),
+),
+),
+),
+Container(
+// autogroupf3jkudV (WFUDxWaRSZCGFApdFnF3JK)
+margin:  EdgeInsets.fromLTRB(70*fem, 0*fem, 69*fem, 0*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffd9d9d9),
+borderRadius:  BorderRadius.circular(47*fem),
+),
+child:  
+Center(
+// rectangle59E9y (120:88)
+child:  
+SizedBox(
+width:  double.infinity,
+height:  12*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(47*fem),
+color:  Color(0xff006177),
+),
+),
+),
+),
+),
+],
+),
+),
+Container(
+// frame23eZZ (60:133)
+width:  double.infinity,
+height:  845*fem,
+decoration:  BoxDecoration (
+color:  Color(0xffffffff),
+),
+child:  
+Stack(
+children:  [
+Positioned(
+// group14T1D (85:221)
+left:  0*fem,
+top:  0*fem,
+child:  
+Container(
+width:  391*fem,
+height:  307.55*fem,
+child:  
+Stack(
+children:  [
+Positioned(
+// rectangle38Xmm (85:222)
+left:  0*fem,
+top:  0.9539337158*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  391*fem,
+height:  306*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+color:  Color(0xff00343f),
+),
+),
+),
+),
+),
+Positioned(
+// mapofworldontransparentbackgro (85:223)
+left:  0.796875*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  389.83*fem,
+height:  307.55*fem,
+child:  
+Image.network(
+[Image url]
+fit:  BoxFit.cover,
+),
+),
+),
+),
+Positioned(
+// group343tX (105:771)
+left:  63*fem,
+top:  53*fem,
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+padding:  EdgeInsets.fromLTRB(13.39*fem, 13*fem, 13.39*fem, 11*fem),
+width:  278*fem,
+height:  46*fem,
+decoration:  BoxDecoration (
+color:  Color(0x75ececec),
+borderRadius:  BorderRadius.circular(7*fem),
+),
+child:  
+Text(
+'Search',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  18*ffem,
+fontWeight:  FontWeight.w300,
+height:  1.2019999822*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+),
+),
+Positioned(
+// rectangle27ZkP (62:189)
+left:  33*fem,
+top:  158*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  56*fem,
+height:  48*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+color:  Color(0xffd9d9d9),
+),
+),
+),
+),
+),
+Positioned(
+// abTKy (80:368)
+left:  47*fem,
+top:  169*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  28*fem,
+height:  25*fem,
+child:  
+Text(
+'AB',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  20*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xffb0aeae),
+),
+),
+),
+),
+),
+Positioned(
+// vectorvUT (105:773)
+left:  20*fem,
+top:  63*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  26.88*fem,
+height:  25.32*fem,
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Image.network(
+[Image url]
+width:  26.88*fem,
+height:  25.32*fem,
+),
+),
+),
+),
+),
+],
+),
+),
+),
+Positioned(
+// rectangle39mjy (85:224)
+left:  0*fem,
+top:  233*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  391*fem,
+height:  506*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(43*fem),
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+Positioned(
+// rectangle114DH (62:196)
+left:  20*fem,
+top:  132*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  358*fem,
+height:  125*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(23*fem),
+border:  Border.all(color Color(0xffababab)),
+color:  Color(0xffffffff),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(3*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// group33J7d (99:768)
+left:  34*fem,
+top:  149*fem,
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+width:  56*fem,
+height:  48*fem,
+decoration:  BoxDecoration (
+color:  Color(0xffd9d9d9),
+),
+child:  
+Center(
+child:  
+Text(
+'AB',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  20*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xffb0aeae),
+),
+),
+),
+),
+),
+),
+Positioned(
+// educationaloutreachprogram7as (62:190)
+left:  103*fem,
+top:  146*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  209*fem,
+height:  49*fem,
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Text(
+'Educational Outreach Program',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  20*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+),
+),
+),
+Positioned(
+// developmentsinliteracysupporte (62:191)
+left:  103*fem,
+top:  197*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  164*fem,
+height:  48*fem,
+child:  
+Text(
+'Developments in Literacy, \nsupported by the UN Development Programme',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  13*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff363434),
+),
+),
+),
+),
+),
+Positioned(
+// vectorMdd (62:192)
+left:  345*fem,
+top:  169*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  16.25*fem,
+height:  14.77*fem,
+child:  
+Image.network(
+[Image url]
+width:  16.25*fem,
+height:  14.77*fem,
+),
+),
+),
+),
+Positioned(
+// iconsaxlinearhierarchy3S9H (62:193)
+left:  314.3333740234*fem,
+top:  169.3333334923*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  13.33*fem,
+height:  13.33*fem,
+child:  
+Image.network(
+[Image url]
+width:  13.33*fem,
+height:  13.33*fem,
+),
+),
+),
+),
+Positioned(
+// rectangle296Uj (67:323)
+left:  17*fem,
+top:  270*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  358*fem,
+height:  115*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(23*fem),
+border:  Border.all(color Color(0xffababab)),
+color:  Color(0xffffffff),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(3*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// rectangle31k3V (67:339)
+left:  20*fem,
+top:  398*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  358*fem,
+height:  115*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(23*fem),
+border:  Border.all(color Color(0xffababab)),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(3*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// rectangle33ziX (67:347)
+left:  20*fem,
+top:  526*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  358*fem,
+height:  129*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(23*fem),
+border:  Border.all(color Color(0xffababab)),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(3*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// rectangle35Esm (67:355)
+left:  20*fem,
+top:  668*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  358*fem,
+height:  106*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(23*fem),
+border:  Border.all(color Color(0xffababab)),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(3*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// rectangle28Jsd (67:316)
+left:  37*fem,
+top:  285*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  56*fem,
+height:  48*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+color:  Color(0xffd9d9d9),
+),
+),
+),
+),
+),
+Positioned(
+// abQQs (80:369)
+left:  51*fem,
+top:  296*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  28*fem,
+height:  25*fem,
+child:  
+Text(
+'AB',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  20*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xffb0aeae),
+),
+),
+),
+),
+),
+Positioned(
+// computerliteracyprogramtL3 (67:317)
+left:  102*fem,
+top:  285*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  186*fem,
+height:  49*fem,
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Text(
+'Computer Literacy \nProgram',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  20*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+),
+),
+),
+Positioned(
+// localngosupportedbymicrosoftco (67:318)
+left:  103*fem,
+top:  338*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  219*fem,
+height:  32*fem,
+child:  
+Text(
+'Local NGO, supported by Microsoft Corporation',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  13*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff363434),
+),
+),
+),
+),
+),
+Positioned(
+// vectorZqV (67:319)
+left:  344*fem,
+top:  308*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  16.25*fem,
+height:  14.77*fem,
+child:  
+Image.network(
+[Image url]
+width:  16.25*fem,
+height:  14.77*fem,
+),
+),
+),
+),
+Positioned(
+// iconsaxlinearhierarchy34GT (67:320)
+left:  313.3333740234*fem,
+top:  308.3333282471*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  13.33*fem,
+height:  13.33*fem,
+child:  
+Image.network(
+[Image url]
+width:  13.33*fem,
+height:  13.33*fem,
+),
+),
+),
+),
+Positioned(
+// rectangle30KCP (67:332)
+left:  37*fem,
+top:  413*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  56*fem,
+height:  48*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+color:  Color(0xffd9d9d9),
+),
+),
+),
+),
+),
+Positioned(
+// abnbm (80:370)
+left:  51*fem,
+top:  424*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  28*fem,
+height:  25*fem,
+child:  
+Text(
+'AB',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  20*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xffb0aeae),
+),
+),
+),
+),
+),
+Positioned(
+// stemeducationworkshopsffZ (67:333)
+left:  102*fem,
+top:  413*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  164*fem,
+height:  49*fem,
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Text(
+'STEM Education \nWorkshops',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  20*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+),
+),
+),
+Positioned(
+// universityofkarachiwithsupport (67:334)
+left:  103*fem,
+top:  461*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  164*fem,
+height:  48*fem,
+child:  
+Text(
+'University of Karachi, with support from Huawei Technologies',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  13*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff363434),
+),
+),
+),
+),
+),
+Positioned(
+// vectorKNj (67:335)
+left:  344*fem,
+top:  436*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  16.25*fem,
+height:  14.77*fem,
+child:  
+Image.network(
+[Image url]
+width:  16.25*fem,
+height:  14.77*fem,
+),
+),
+),
+),
+Positioned(
+// iconsaxlinearhierarchy3oYo (67:336)
+left:  313.3333740234*fem,
+top:  436.3333435059*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  13.33*fem,
+height:  13.33*fem,
+child:  
+Image.network(
+[Image url]
+width:  13.33*fem,
+height:  13.33*fem,
+),
+),
+),
+),
+Positioned(
+// rectangle32t4T (67:340)
+left:  40*fem,
+top:  540*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  56*fem,
+height:  48*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+color:  Color(0xffd9d9d9),
+),
+),
+),
+),
+),
+Positioned(
+// abAnf (80:371)
+left:  54*fem,
+top:  553*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  28*fem,
+height:  25*fem,
+child:  
+Text(
+'AB',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  20*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xffb0aeae),
+),
+),
+),
+),
+),
+Positioned(
+// mobilesciencelab3Lf (67:341)
+left:  105*fem,
+top:  540*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  153*fem,
+height:  49*fem,
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Text(
+'Mobile Science \nLab',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  20*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+),
+),
+),
+Positioned(
+// scienceeducationfoundationofpa (67:342)
+left:  106*fem,
+top:  593*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  189*fem,
+height:  48*fem,
+child:  
+Text(
+'Science Education Foundation\nof Pakistan, supported \nby the World Bank',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  13*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff363434),
+),
+),
+),
+),
+),
+Positioned(
+// vectorLj5 (67:343)
+left:  347*fem,
+top:  563*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  16.25*fem,
+height:  14.77*fem,
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Image.network(
+[Image url]
+width:  16.25*fem,
+height:  14.77*fem,
+),
+),
+),
+),
+),
+Positioned(
+// iconsaxlinearhierarchy3DXy (67:344)
+left:  316.3333740234*fem,
+top:  563.3333435059*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  13.33*fem,
+height:  13.33*fem,
+child:  
+Image.network(
+[Image url]
+width:  13.33*fem,
+height:  13.33*fem,
+),
+),
+),
+),
+Positioned(
+// rectangle34tu1 (67:348)
+left:  40*fem,
+top:  682*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  56*fem,
+height:  48*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+color:  Color(0xffd9d9d9),
+),
+),
+),
+),
+),
+Positioned(
+// codingbootcampbHd (67:349)
+left:  105*fem,
+top:  682*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  173*fem,
+height:  25*fem,
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Text(
+'Coding Bootcamp',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  20*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+),
+),
+),
+Positioned(
+// nationaluniversityofcomputeran (67:350)
+left:  104*fem,
+top:  709*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  200*fem,
+height:  48*fem,
+child:  
+Text(
+'National University of Computer and Emerging Sciences, with support from Google',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  13*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff363434),
+),
+),
+),
+),
+),
+Positioned(
+// vector5s1 (67:351)
+left:  347*fem,
+top:  705*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  16.25*fem,
+height:  14.77*fem,
+child:  
+Image.network(
+[Image url]
+width:  16.25*fem,
+height:  14.77*fem,
+),
+),
+),
+),
+Positioned(
+// iconsaxlinearhierarchy3mUw (67:352)
+left:  316.3333740234*fem,
+top:  705.3333129883*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  13.33*fem,
+height:  13.33*fem,
+child:  
+Image.network(
+[Image url]
+width:  13.33*fem,
+height:  13.33*fem,
+),
+),
+),
+),
+Positioned(
+// abSLB (80:372)
+left:  52*fem,
+top:  696*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  28*fem,
+height:  25*fem,
+child:  
+Text(
+'AB',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  20*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xffb0aeae),
+),
+),
+),
+),
+),
+Positioned(
+// group176vX (85:272)
+left:  245*fem,
+top:  334*fem,
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+width:  167*fem,
+height:  40*fem,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+),
+child:  
+Stack(
+children:  [
+Positioned(
+// rectangle30aKu (85:273)
+left:  41.75*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  81.56*fem,
+height:  40*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+color:  Color(0xffd96800),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(5*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// applybko (85:274)
+left:  60.5*fem,
+top:  7*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  46*fem,
+height:  21*fem,
+child:  
+Text(
+'Apply',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  17*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+],
+),
+),
+),
+),
+Positioned(
+// group16eUB (85:269)
+left:  245*fem,
+top:  207*fem,
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+width:  167*fem,
+height:  40*fem,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+),
+child:  
+Stack(
+children:  [
+Positioned(
+// rectangle30KqD (85:267)
+left:  41.75*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  81.56*fem,
+height:  40*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+color:  Color(0xffd96800),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(5*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// applyBMd (85:268)
+left:  60.5*fem,
+top:  7*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  46*fem,
+height:  21*fem,
+child:  
+Text(
+'Apply',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  17*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+],
+),
+),
+),
+),
+Positioned(
+// group18GP5 (85:275)
+left:  245*fem,
+top:  461*fem,
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+width:  167*fem,
+height:  40*fem,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+),
+child:  
+Stack(
+children:  [
+Positioned(
+// rectangle30XZu (85:276)
+left:  41.75*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  81.56*fem,
+height:  40*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+color:  Color(0xffd96800),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(5*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// applykhZ (85:277)
+left:  60.5*fem,
+top:  7*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  46*fem,
+height:  21*fem,
+child:  
+Text(
+'Apply',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  17*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+],
+),
+),
+),
+),
+Positioned(
+// group19aRh (85:293)
+left:  245*fem,
+top:  602*fem,
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+width:  167*fem,
+height:  40*fem,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+),
+child:  
+Stack(
+children:  [
+Positioned(
+// rectangle30rPD (85:294)
+left:  41.75*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  81.56*fem,
+height:  40*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+color:  Color(0xffd96800),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(5*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// applyh8w (85:295)
+left:  60.5*fem,
+top:  7*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  46*fem,
+height:  21*fem,
+child:  
+Text(
+'Apply',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  17*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+],
+),
+),
+),
+),
+Positioned(
+// group20Zgw (85:296)
+left:  245*fem,
+top:  724*fem,
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+width:  167*fem,
+height:  40*fem,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+),
+child:  
+Stack(
+children:  [
+Positioned(
+// rectangle30EYB (85:297)
+left:  41.75*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  81.56*fem,
+height:  40*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+color:  Color(0xffd96800),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(5*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// apply41R (85:298)
+left:  60.5*fem,
+top:  7*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  46*fem,
+height:  21*fem,
+child:  
+Text(
+'Apply',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  17*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+],
+),
+),
+),
+),
+Positioned(
+// group30vZR (94:609)
+left:  0*fem,
+top:  766*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  390*fem,
+height:  79*fem,
+child:  
+Image.network(
+[Image url]
+width:  390*fem,
+height:  79*fem,
+),
+),
+),
+),
+],
+),
+),
+Container(
+// frame30L19 (85:407)
+padding:  EdgeInsets.fromLTRB(8*fem, 21*fem, 0*fem, 0*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffffffff),
+),
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// vectorLfM (105:775)
+margin:  EdgeInsets.fromLTRB(4*fem, 0*fem, 0*fem, 4.68*fem),
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+width:  26.88*fem,
+height:  25.32*fem,
+child:  
+Image.network(
+[Image url]
+width:  26.88*fem,
+height:  25.32*fem,
+),
+),
+),
+),
+Container(
+// rectangle27ZY7 (85:421)
+margin:  EdgeInsets.fromLTRB(11*fem, 0*fem, 0*fem, 10*fem),
+width:  351*fem,
+height:  117*fem,
+child:  
+Image.network(
+[Image url]
+fit:  BoxFit.cover,
+),
+),
+Container(
+// autogroupmeeoFA3 (WFUQfcuAYSsjfnn4NEmEeo)
+margin:  EdgeInsets.fromLTRB(4*fem, 0*fem, 0*fem, 27*fem),
+width:  392*fem,
+height:  534*fem,
+child:  
+Stack(
+children:  [
+Positioned(
+// descriptionalongtermeducationa (85:422)
+left:  10*fem,
+top:  262*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  354*fem,
+height:  205*fem,
+child:  
+RichText(
+text:  
+TextSpan(
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  13*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2102272327*ffem/fem,
+color:  Color(0xff000000),
+),
+children:  [
+TextSpan(
+text:  'Description',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  ' ',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  'A long-term educational outreach program that provides academic support, mentorship, and training to students and educators in rural and remote areas of Pakistan. The program includes tutoring and mentorship for students, as well as professional development and training for teachers and administrators. The program also supports the establishment of libraries and computer labs in local schools and provides access to e-learning resources for students and educators',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// educationaloutreachprogrambab (85:423)
+left:  7*fem,
+top:  18*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  315*fem,
+height:  26*fem,
+child:  
+Text(
+'Educational Outreach Program',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  21*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.2125*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+),
+),
+Positioned(
+// dateongoinglocationvariousrura (85:424)
+left:  10*fem,
+top:  70*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  330*fem,
+height:  117*fem,
+child:  
+RichText(
+text:  
+TextSpan(
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  13*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+children:  [
+TextSpan(
+text:  'Date',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  ' ',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+TextSpan(
+text:  'Ongoing\n',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+TextSpan(
+text:  '\n',
+),
+TextSpan(
+text:  'Location',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  ' Various rural and remote areas of Pakistan Organizer Developments in Literacy, supported by the United Nations Development Programme',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// organizerdevelopmentsinliterac (85:425)
+left:  10*fem,
+top:  194*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  334*fem,
+height:  60*fem,
+child:  
+RichText(
+text:  
+TextSpan(
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+children:  [
+TextSpan(
+text:  'Organizer',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  ' Developments in Literacy, supported by the United Nations Development Programme',
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// group22Yk3 (85:426)
+left:  10*fem,
+top:  473*fem,
+child:  
+Container(
+width:  382*fem,
+height:  40*fem,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+),
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// seemoreQXM (85:427)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 129*fem, 0*fem),
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Text(
+'See more',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff0276c9),
+),
+),
+),
+),
+TextButton(
+// group21fiB (85:428)
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+width:  167*fem,
+height:  double.infinity,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+),
+child:  
+Stack(
+children:  [
+Positioned(
+// rectangle30Mb1 (85:429)
+left:  41.75*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  81.56*fem,
+height:  40*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+color:  Color(0xffd96800),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(5*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// applyZh5 (85:430)
+left:  60.5*fem,
+top:  7*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  46*fem,
+height:  21*fem,
+child:  
+Text(
+'Apply',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  17*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+],
+),
+),
+),
+],
+),
+),
+),
+Positioned(
+// rectangle40Qxb (85:431)
+left:  0*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  358*fem,
+height:  534*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(23*fem),
+border:  Border.all(color Color(0xffababab)),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(3*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+],
+),
+),
+Container(
+// group284GT (90:488)
+width:  3812*fem,
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// autogroupsx6wyPR (WFURTGFn3v1pp2nrGQsx6w)
+margin:  EdgeInsets.fromLTRB(4*fem, 0*fem, 0*fem, 21*fem),
+width:  2789.85*fem,
+height:  639*fem,
+child:  
+Stack(
+children:  [
+Positioned(
+// group12GNX (85:432)
+left:  0*fem,
+top:  0*fem,
+child:  
+Container(
+width:  2789.85*fem,
+height:  438*fem,
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// rectangle27a8K (85:433)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 37*fem),
+width:  358*fem,
+height:  147*fem,
+child:  
+Image.network(
+[Image url]
+fit:  BoxFit.cover,
+),
+),
+Container(
+// group8UUb (85:434)
+margin:  EdgeInsets.fromLTRB(3.85*fem, 0*fem, 0*fem, 0*fem),
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// computerliteracyprogramb3R (85:435)
+margin:  EdgeInsets.fromLTRB(0.15*fem, 0*fem, 0*fem, 45*fem),
+child:  
+Text(
+'Computer Literacy Program',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  21*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.2125*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+Container(
+// datejune152023locationvillageo (85:437)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 135*fem),
+child:  
+RichText(
+text:  
+TextSpan(
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  13*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+children:  [
+TextSpan(
+text:  'Date',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  ' ',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+TextSpan(
+text:  'June 15, 2023\n',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+TextSpan(
+text:  '\n',
+),
+TextSpan(
+text:  'Location',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  ' ',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  'Village of Khushpur, district of Toba Tek Singh, Punjab\n\n',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+TextSpan(
+text:  'Organizer',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  ' ',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  'Local NGO, supported by Microsoft Corporation',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+],
+),
+),
+),
+RichText(
+// descriptionaoneweekcomputerlit (85:436)
+text:  
+TextSpan(
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  13*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2102272327*ffem/fem,
+color:  Color(0xff000000),
+),
+children:  [
+TextSpan(
+text:  'Description',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  ' A one-week computer literacy program for adults in the village of Khushpur, covering basic computer skills, such as typing, navigating the internet, and using Microsoft Office. The program will be conducted by trained volunteers from the local community, and participants will have access to computers and other necessary equipment. Lunch will be provided for all participants.',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+],
+),
+),
+],
+),
+),
+],
+),
+),
+),
+Positioned(
+// rectangle45Wqq (85:438)
+left:  0*fem,
+top:  164*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  358*fem,
+height:  475*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(23*fem),
+border:  Border.all(color Color(0xffababab)),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(3*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// group26LZy (85:439)
+left:  10*fem,
+top:  580*fem,
+child:  
+Container(
+width:  382*fem,
+height:  40*fem,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+),
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// seemore2Bu (85:440)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 129*fem, 0*fem),
+child:  
+Text(
+'See more',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff0276c9),
+),
+),
+),
+TextButton(
+// group21uFh (85:441)
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+width:  167*fem,
+height:  double.infinity,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+),
+child:  
+Stack(
+children:  [
+Positioned(
+// rectangle30moh (85:442)
+left:  41.75*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  81.56*fem,
+height:  40*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+color:  Color(0xffd96800),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(5*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// applyNoV (85:443)
+left:  60.5*fem,
+top:  7*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  46*fem,
+height:  21*fem,
+child:  
+Text(
+'Apply',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  17*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+],
+),
+),
+),
+],
+),
+),
+),
+],
+),
+),
+Container(
+// rectangle27TTZ (85:444)
+margin:  EdgeInsets.fromLTRB(2*fem, 0*fem, 0*fem, 25*fem),
+width:  358*fem,
+height:  147*fem,
+child:  
+Image.network(
+[Image url]
+fit:  BoxFit.cover,
+),
+),
+Container(
+// autogrouptgh9wdd (WFURtFY9BaacotNjDeTgh9)
+margin:  EdgeInsets.fromLTRB(2*fem, 0*fem, 0*fem, 25*fem),
+width:  2932*fem,
+height:  495*fem,
+child:  
+Stack(
+children:  [
+Positioned(
+// group92f5 (85:445)
+left:  10*fem,
+top:  33*fem,
+child:  
+Container(
+width:  2922*fem,
+height:  228*fem,
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// stemeducationworkshops7gX (85:446)
+margin:  EdgeInsets.fromLTRB(0.15*fem, 0*fem, 0*fem, 20*fem),
+child:  
+Text(
+'STEM Education Workshops',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  20*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+Container(
+// datejuly12152023locationvillag (85:448)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 135*fem),
+child:  
+RichText(
+text:  
+TextSpan(
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  13*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+children:  [
+TextSpan(
+text:  'Date',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  ' ',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  'July 12-15, 2023\n',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+TextSpan(
+text:  '\n',
+),
+TextSpan(
+text:  'Location',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  ' ',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  'Village of Kandiaro, district of Naushahro Feroze, Sindh\n\n',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+TextSpan(
+text:  'Organizer',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  ' ',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  'University of Karachi, with support from Huawei Technologies',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+],
+),
+),
+),
+RichText(
+// descriptionaseriesofstemeducat (85:447)
+text:  
+TextSpan(
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  13*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2102272327*ffem/fem,
+color:  Color(0xff000000),
+),
+children:  [
+TextSpan(
+text:  'Description',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  ' ',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  'A series of STEM education workshops for students in the village of Kandiaro, focusing on robotics and coding. The workshops will be conducted by faculty and students from the University of Karachi, and participants will have the opportunity to work with advanced robotics kits and coding software. The workshops will culminate in a competition and showcase for participants and their families.',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+],
+),
+),
+],
+),
+),
+),
+Positioned(
+// rectangle45RkP (85:449)
+left:  0*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  358*fem,
+height:  495*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(23*fem),
+border:  Border.all(color Color(0xffababab)),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(3*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// group263mm (85:450)
+left:  12*fem,
+top:  429*fem,
+child:  
+Container(
+width:  382*fem,
+height:  40*fem,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+),
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// seemoreKUP (85:451)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 129*fem, 0*fem),
+child:  
+Text(
+'See more',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff0276c9),
+),
+),
+),
+TextButton(
+// group21zqR (85:452)
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+width:  167*fem,
+height:  double.infinity,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+),
+child:  
+Stack(
+children:  [
+Positioned(
+// rectangle305M5 (85:453)
+left:  41.75*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  81.56*fem,
+height:  40*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+color:  Color(0xffd96800),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(5*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// applyuL7 (85:454)
+left:  60.5*fem,
+top:  7*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  46*fem,
+height:  21*fem,
+child:  
+Text(
+'Apply',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  17*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+],
+),
+),
+),
+],
+),
+),
+),
+],
+),
+),
+Container(
+// rectangle28NjV (85:457)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 31*fem),
+width:  358*fem,
+height:  158*fem,
+child:  
+Image.network(
+[Image url]
+fit:  BoxFit.cover,
+),
+),
+Container(
+// autogroupbpry587 (WFUSKKehbhm6Q9uS6RbpRy)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 38*fem),
+width:  3231*fem,
+height:  491*fem,
+child:  
+Stack(
+children:  [
+Positioned(
+// group10NN7 (85:458)
+left:  13*fem,
+top:  14*fem,
+child:  
+Container(
+width:  3218*fem,
+height:  233*fem,
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// mobilesciencelabro5 (85:459)
+margin:  EdgeInsets.fromLTRB(0.15*fem, 0*fem, 0*fem, 24*fem),
+child:  
+Text(
+'Mobile Science Lab:',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  21*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.2020000276*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+Container(
+// dateaugust23272023locationvari (85:461)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 135*fem),
+child:  
+RichText(
+text:  
+TextSpan(
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  13*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+children:  [
+TextSpan(
+text:  'Date',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  ' ',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  'August 23-27, 2023\n',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+TextSpan(
+text:  '\n',
+),
+TextSpan(
+text:  'Location',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  ' Various rural and remote communities in Khyber Pakhtunkhwa\n\n',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+TextSpan(
+text:  'Organizer',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  ' Science Education Foundation of Pakistan, supported by the World Bank',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+],
+),
+),
+),
+RichText(
+// descriptionamobilesciencelabth (85:460)
+text:  
+TextSpan(
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  13*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2102272327*ffem/fem,
+color:  Color(0xff000000),
+),
+children:  [
+TextSpan(
+text:  'Description',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  ' ',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  'A mobile science lab that will travel to different rural and remote communities in Khyber Pakhtunkhwa, providing hands-on science activities and demonstrations for students and community members. The lab will be staffed by trained educators and will include equipment and materials for experiments in chemistry, physics, and biology. The program will also provide information on science careers and opportunities for further education.',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+],
+),
+),
+],
+),
+),
+),
+Positioned(
+// rectangle46vBu (85:462)
+left:  0*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  358*fem,
+height:  491*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(23*fem),
+border:  Border.all(color Color(0xffababab)),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(3*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// group27Ac3 (85:463)
+left:  11*fem,
+top:  429*fem,
+child:  
+Container(
+width:  382*fem,
+height:  40*fem,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+),
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// seemore3fq (85:464)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 129*fem, 0*fem),
+child:  
+Text(
+'See more',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff0276c9),
+),
+),
+),
+Container(
+// group21LQ3 (85:465)
+width:  167*fem,
+height:  double.infinity,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+),
+child:  
+Stack(
+children:  [
+Positioned(
+// rectangle303pF (85:466)
+left:  41.75*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  81.56*fem,
+height:  40*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+color:  Color(0xffd96800),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(5*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// apply61q (85:467)
+left:  60.5*fem,
+top:  7*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  46*fem,
+height:  21*fem,
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Text(
+'Apply',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  17*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+),
+],
+),
+),
+],
+),
+),
+),
+],
+),
+),
+Container(
+// rectangle29gEw (84:32)
+margin:  EdgeInsets.fromLTRB(2*fem, 0*fem, 0*fem, 36*fem),
+width:  358*fem,
+height:  147*fem,
+child:  
+Image.network(
+[Image url]
+fit:  BoxFit.cover,
+),
+),
+Container(
+// autogrouptuq3N7m (WFUSsoiaGfhKoAZg8dTUQ3)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 0*fem),
+width:  3811*fem,
+height:  553*fem,
+child:  
+Stack(
+children:  [
+Positioned(
+// group11FxF (84:33)
+left:  15*fem,
+top:  15*fem,
+child:  
+Container(
+width:  3796*fem,
+height:  255*fem,
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// codingbootcamp9Xq (84:34)
+margin:  EdgeInsets.fromLTRB(0.15*fem, 0*fem, 0*fem, 24*fem),
+child:  
+Text(
+'Coding Bootcamp:',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  21*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.2020000276*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+Container(
+// dateseptember6302023locationvi (84:36)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 157*fem),
+child:  
+RichText(
+text:  
+TextSpan(
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  13*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+children:  [
+TextSpan(
+text:  'Date',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  ' ',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+TextSpan(
+text:  'September 6-30, 2023\n',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+TextSpan(
+text:  '\n',
+),
+TextSpan(
+text:  'Location',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  ' Village of Thari Mirwah, district of Khairpur, Sindh\n\n',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+TextSpan(
+text:  'Organizer',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  ' National University of Computer and Emerging Sciences, with support from Google',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+],
+),
+),
+),
+Container(
+// descriptionamonthlongcodingboo (84:35)
+margin:  EdgeInsets.fromLTRB(2*fem, 0*fem, 0*fem, 0*fem),
+child:  
+RichText(
+text:  
+TextSpan(
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  13*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2102272327*ffem/fem,
+color:  Color(0xff000000),
+),
+children:  [
+TextSpan(
+text:  'Description',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+TextSpan(
+text:  ' A month-long coding bootcamp for students and young adults in the village of Thari Mirwah, focusing on web development and programming languages such as Python and Java. The bootcamp will be conducted by faculty and alumni from the National University of Computer and Emerging Sciences, and participants will have access to computers and other necessary equipment. The bootcamp will conclude with a showcase of participants\' projects and an opportunity for networking with local technology companies.',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+],
+),
+),
+),
+],
+),
+),
+),
+Positioned(
+// rectangle446Mq (85:338)
+left:  0*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  358*fem,
+height:  553*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(23*fem),
+border:  Border.all(color Color(0xffababab)),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(3*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// group2595D (85:328)
+left:  11*fem,
+top:  490*fem,
+child:  
+Container(
+width:  382*fem,
+height:  40*fem,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+),
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// seemoreoQf (85:329)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 129*fem, 0*fem),
+child:  
+Text(
+'See more',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff0276c9),
+),
+),
+),
+TextButton(
+// group21Haj (85:330)
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+width:  167*fem,
+height:  double.infinity,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+),
+child:  
+Stack(
+children:  [
+Positioned(
+// rectangle30Ns5 (85:331)
+left:  41.75*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  81.56*fem,
+height:  40*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+color:  Color(0xffd96800),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(5*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// applyQHy (85:332)
+left:  60.5*fem,
+top:  7*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  46*fem,
+height:  21*fem,
+child:  
+Text(
+'Apply',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  17*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+],
+),
+),
+),
+],
+),
+),
+),
+],
+),
+),
+],
+),
+),
+],
+),
+),
+Container(
+// frame20AbV (56:31)
+padding:  EdgeInsets.fromLTRB(12*fem, 21*fem, 0*fem, 0*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffffffff),
+),
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// vectorn75 (105:777)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 31.68*fem),
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+width:  26.88*fem,
+height:  25.32*fem,
+child:  
+Image.network(
+[Image url]
+width:  26.88*fem,
+height:  25.32*fem,
+),
+),
+),
+),
+Container(
+// applicantformRQw (56:32)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 57*fem),
+width:  double.infinity,
+child:  
+Text(
+'Applicant Form',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  27*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.2020000882*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+Container(
+// describewhyyouthinkthiseventis (54:23)
+margin:  EdgeInsets.fromLTRB(3*fem, 0*fem, 0*fem, 17*fem),
+constraints:  BoxConstraints (
+maxWidth:  356*fem,
+),
+child:  
+Text(
+'Describe why you think this event is important for your community and how it will benefit the attendees:',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+Container(
+// autogroupey27txj (WFUEmzDKC7sNSVdbTveY27)
+margin:  EdgeInsets.fromLTRB(4*fem, 0*fem, 0*fem, 19*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 20*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Align(
+// mainissuesorchallengesfacingyo (53:11)
+alignment:  Alignment.centerLeft,
+child:  
+SizedBox(
+child:  
+Container(
+constraints:  BoxConstraints (
+maxWidth:  266*fem,
+),
+child:  
+Text(
+'Main issues or challenges facing your community?',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+),
+),
+Container(
+// autogroupltumRbH (WFUEtegstq5yuXFhKTLTum)
+margin:  EdgeInsets.fromLTRB(4*fem, 0*fem, 0*fem, 19*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 15*fem, 20*fem),
+width:  358*fem,
+height:  74*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Center(
+// howwillthiseventhelpaddressthe (53:14)
+child:  
+SizedBox(
+child:  
+Container(
+constraints:  BoxConstraints (
+maxWidth:  326*fem,
+),
+child:  
+Text(
+'How will this event help address these issues \nor challenges?',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+),
+),
+Container(
+// autogroup9c6fMNT (WFUF1UpqATXxZNmT259C6f)
+margin:  EdgeInsets.fromLTRB(3*fem, 0*fem, 0*fem, 34*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 20*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Align(
+// expectedoutcomesoftheeventegco (53:16)
+alignment:  Alignment.centerLeft,
+child:  
+SizedBox(
+child:  
+Container(
+constraints:  BoxConstraints (
+maxWidth:  267*fem,
+),
+child:  
+Text(
+'Expected outcomes of the event (e.g. community building, Knowledge etc.)',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+),
+),
+Container(
+// group5Tpo (67:310)
+margin:  EdgeInsets.fromLTRB(4*fem, 0*fem, 0*fem, 0*fem),
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// group3ncB (67:300)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 42*fem),
+width:  362*fem,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// describethefacilitiesandinfras (56:49)
+margin:  EdgeInsets.fromLTRB(3*fem, 0*fem, 0*fem, 18*fem),
+constraints:  BoxConstraints (
+maxWidth:  359*fem,
+),
+child:  
+Text(
+'Describe the facilities and infrastructure available at the event location:',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+Container(
+// autogroupguqp8ZZ (WFUFUYt4PbUpPYyz3uguQP)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 3*fem, 19*fem),
+width:  double.infinity,
+height:  55*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Center(
+child:  
+Text(
+'Venue or space is available for the event?',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+Container(
+// autogroupue75YNP (WFUFaYi4pdmy7H3UX5ue75)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 19*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 15*fem, 16*fem),
+width:  358*fem,
+height:  88*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Center(
+// arethereanyamenitiesorservices (56:45)
+child:  
+SizedBox(
+child:  
+Container(
+constraints:  BoxConstraints (
+maxWidth:  326*fem,
+),
+child:  
+Text(
+'Are there any amenities or services available (e.g. electricity, internet access, restrooms, etc.)?',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+),
+),
+Container(
+// autogroup1awx4k3 (WFUFgNsggkqkeBDK9B1aWX)
+padding:  EdgeInsets.fromLTRB(15*fem, 18*fem, 15*fem, 19*fem),
+width:  358*fem,
+height:  74*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Center(
+// restrictionsorimitationsontheu (56:43)
+child:  
+SizedBox(
+child:  
+Container(
+constraints:  BoxConstraints (
+maxWidth:  301*fem,
+),
+child:  
+Text(
+'Restrictions or imitations on the use of the space?',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+),
+),
+],
+),
+),
+Container(
+// group42KV (67:308)
+margin:  EdgeInsets.fromLTRB(3*fem, 0*fem, 0*fem, 58*fem),
+width:  1040*fem,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// describeanyspecialrequirements (56:66)
+margin:  EdgeInsets.fromLTRB(2*fem, 0*fem, 0*fem, 36*fem),
+child:  
+Text(
+'Describe any special requirements or equipment needed for the event:',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+Container(
+// autogroupash9z9q (WFUGDryDxDPnvEXe6rASh9)
+width:  double.infinity,
+height:  106*fem,
+child:  
+Stack(
+children:  [
+Positioned(
+// rectangle30JwD (56:58)
+left:  0*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  358*fem,
+height:  106*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(4*fem),
+border:  Border.all(color Color(0xffababab)),
+),
+),
+),
+),
+),
+Positioned(
+// equipmentorresourcesareneededf (56:59)
+left:  17*fem,
+top:  17*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  1023*fem,
+height:  19*fem,
+child:  
+Text(
+'Equipment or resources are needed for the event (e.g. audiovisual equipment, tables and chairs, materials for workshops or presentations, etc.)?',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+),
+],
+),
+),
+Container(
+// autogroupxbyfzxT (WFUGeS6cfatAx2PPSMxBYF)
+padding:  EdgeInsets.fromLTRB(0*fem, 19*fem, 0*fem, 0*fem),
+width:  double.infinity,
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// autogroup5yepKUw (WFUGPh2BSMzLvx59345YEP)
+margin:  EdgeInsets.fromLTRB(2*fem, 0*fem, 0*fem, 19*fem),
+width:  844*fem,
+height:  88*fem,
+child:  
+Stack(
+children:  [
+Positioned(
+// rectangle31pwV (56:62)
+left:  0*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  358*fem,
+height:  88*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(4*fem),
+border:  Border.all(color Color(0xffababab)),
+),
+),
+),
+),
+),
+Positioned(
+// anyspecifictechnicalrequiremen (56:63)
+left:  17*fem,
+top:  17*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  827*fem,
+height:  19*fem,
+child:  
+Text(
+'Any specific technical requirements or considerations (e.g. sound or lighting requirements, accessibility needs, etc.)?',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+),
+],
+),
+),
+Container(
+// autogroupyunwWSw (WFUGVwLmin8YRuy7GryUNw)
+width:  756*fem,
+height:  88*fem,
+child:  
+Stack(
+children:  [
+Positioned(
+// rectangle32ENw (56:60)
+left:  0*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  358*fem,
+height:  88*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(4*fem),
+border:  Border.all(color Color(0xffababab)),
+),
+),
+),
+),
+),
+Positioned(
+// howwilltheserequirementsbemeto (56:61)
+left:  15*fem,
+top:  18*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  741*fem,
+height:  19*fem,
+child:  
+Text(
+'How will these requirements be met or sourced (e.g. through the provider, through the community, etc.)?',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+),
+],
+),
+),
+],
+),
+),
+],
+),
+),
+Container(
+// autogrouppg6xLaP (WFUFDoodANazNUfjebpG6X)
+margin:  EdgeInsets.fromLTRB(99*fem, 0*fem, 0*fem, 0*fem),
+width:  169*fem,
+height:  49*fem,
+decoration:  BoxDecoration (
+color:  Color(0xffd96800),
+borderRadius:  BorderRadius.circular(16*fem),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(5*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+child:  
+Center(
+child:  
+Text(
+'Submit',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  17*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+),
+],
+),
+),
+],
+),
+),
+Container(
+// frame319xf (90:541)
+width:  double.infinity,
+height:  844*fem,
+decoration:  BoxDecoration (
+color:  Color(0xffffffff),
+),
+child:  
+Stack(
+children:  [
+Positioned(
+// group13p3D (90:555)
+left:  0*fem,
+top:  0*fem,
+child:  
+Container(
+width:  390*fem,
+height:  306.6*fem,
+child:  
+Stack(
+children:  [
+Positioned(
+// rectangle38uKZ (90:556)
+left:  0*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  390*fem,
+height:  306*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+color:  Color(0xff00343f),
+),
+),
+),
+),
+),
+Positioned(
+// mapofworldontransparentbackgro (90:557)
+left:  0.7948608398*fem,
+top:  1.3347473145*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  388.83*fem,
+height:  305.26*fem,
+child:  
+Image.network(
+[Image url]
+fit:  BoxFit.cover,
+),
+),
+),
+),
+],
+),
+),
+),
+Positioned(
+// rectangle4745y (90:558)
+left:  0*fem,
+top:  173*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  390*fem,
+height:  545*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(43*fem),
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+Positioned(
+// rectangle28jxo (105:780)
+left:  160*fem,
+top:  428*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  70*fem,
+height:  36*fem,
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(8*fem),
+color:  Color(0x82d9d9d9),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+),
+Positioned(
+// nextxaf (105:781)
+left:  178*fem,
+top:  437*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  34*fem,
+height:  19*fem,
+child:  
+Text(
+'Next',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+),
+Positioned(
+// responsesubmitted1J3 (90:560)
+left:  21.5*fem,
+top:  223*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  232*fem,
+height:  113*fem,
+child:  
+Text(
+'Response \nSubmitted!',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Roboto',
+fontSize:  47*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.201999989*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+),
+),
+],
+),
+),
+Container(
+// frame8MtX (28:2)
+padding:  EdgeInsets.fromLTRB(15*fem, 51*fem, 15*fem, 0*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffffffff),
+),
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// eventrequestaFV (29:34)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 25*fem),
+child:  
+Text(
+'Event Request',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  27*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.2020000882*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+Container(
+// eventdetailsoe3 (30:51)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 239*fem, 18*fem),
+child:  
+Text(
+'Event Details',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2020000659*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+Container(
+// autogroupqfetsdu (WFTnxyihvcZDcM7CFZqFeT)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 2*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Event Tittle',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroupq8ctUtb (WFToB4Cv59mCeDB17Tq8CT)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 1*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Event Type/Category',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroupaemh7gf (WFToKDdyt846nfoyanaEmH)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 2*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Date of Event',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroupvmfr8rf (WFToSDSKifjSdMDP8VVmFR)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 2*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 17*fem),
+width:  358*fem,
+height:  131*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Event Description',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroupqjfmYfV (WFToYNviidFxXuAXSkqJFM)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 2*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Event Location',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroupxpzpn43 (WFToexa68srtQWqoNjxpzP)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 2*fem, 35*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Expected Number of Attendees',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// group2zvo (62:299)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 0*fem),
+width:  359*fem,
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// organizerinformation6D9 (30:84)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 19*fem),
+child:  
+Text(
+'Organizer Information',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2020000659*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+Container(
+// autogroupovcfPCF (WFTpXBdQFaqXBTr33qoVcf)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Organizer Name',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroupncmycao (WFTpfgPFCPb9haGKDLnCmy)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+height:  55*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Organization Name(if applicable)',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroupcwnfeA7 (WFTpp6Jtrjj6dGjmTJCWnf)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+height:  55*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Email',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroup9dcpaCB (WFTpwqazFQwaofecJu9dcP)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+height:  55*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Phone Number',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroupbxpmgPd (WFTq513iesrHqAwfhhBxPm)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 44*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+height:  55*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Website(if applicable)',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// budgeth3q (30:85)
+margin:  EdgeInsets.fromLTRB(2*fem, 0*fem, 0*fem, 25*fem),
+child:  
+Text(
+'Budget',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  19*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2020000659*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+Container(
+// autogroupsthrBjh (WFTqBfXHMb4uJCZmZDstHR)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 52*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+height:  55*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Estimated Budget',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroup1r2tboR (WFTqJFAemqfqApF3VD1R2T)
+margin:  EdgeInsets.fromLTRB(95*fem, 0*fem, 95*fem, 0*fem),
+width:  double.infinity,
+height:  49*fem,
+decoration:  BoxDecoration (
+color:  Color(0xffd96800),
+borderRadius:  BorderRadius.circular(16*fem),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(5*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+child:  
+Center(
+child:  
+Text(
+'Submit Request',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  17*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+),
+],
+),
+),
+],
+),
+),
+Container(
+// frame32iGT (94:570)
+width:  double.infinity,
+height:  844*fem,
+decoration:  BoxDecoration (
+color:  Color(0xffffffff),
+),
+child:  
+Stack(
+children:  [
+Positioned(
+// group13aJf (94:571)
+left:  0*fem,
+top:  0*fem,
+child:  
+Container(
+width:  390*fem,
+height:  306.6*fem,
+child:  
+Stack(
+children:  [
+Positioned(
+// rectangle383xw (94:572)
+left:  0*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  390*fem,
+height:  306*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+color:  Color(0xff00343f),
+),
+),
+),
+),
+),
+Positioned(
+// mapofworldontransparentbackgro (94:573)
+left:  0.7948608398*fem,
+top:  1.3347473145*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  388.83*fem,
+height:  305.26*fem,
+child:  
+Image.network(
+[Image url]
+fit:  BoxFit.cover,
+),
+),
+),
+),
+],
+),
+),
+),
+Positioned(
+// rectangle47xM9 (94:574)
+left:  0*fem,
+top:  173*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  390*fem,
+height:  545*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(43*fem),
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+Positioned(
+// rectangle28D2B (105:784)
+left:  160*fem,
+top:  428*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  70*fem,
+height:  36*fem,
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(8*fem),
+color:  Color(0x82d9d9d9),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+),
+Positioned(
+// next1yd (105:785)
+left:  178*fem,
+top:  437*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  34*fem,
+height:  19*fem,
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Text(
+'Next',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+),
+),
+Positioned(
+// responsesubmittedRnT (94:575)
+left:  21.5*fem,
+top:  223*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  232*fem,
+height:  113*fem,
+child:  
+Text(
+'Response \nSubmitted!',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Roboto',
+fontSize:  47*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.201999989*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+),
+),
+],
+),
+),
+Container(
+// frame25Jrw (67:315)
+width:  double.infinity,
+height:  844*fem,
+child:  
+Container(
+// group7zzf (67:314)
+width:  double.infinity,
+height:  double.infinity,
+decoration:  BoxDecoration (
+image:  DecorationImage (
+fit:  BoxFit.cover,
+image:  NetworkImage (
+[Image url]
+),
+),
+),
+child:  
+Container(
+// group6hu5 (67:313)
+width:  double.infinity,
+height:  731*fem,
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// autogroupwnpmDsR (WFUHe57F38cZXiXAGtWNPm)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 10*fem),
+width:  390*fem,
+height:  177*fem,
+child:  
+Image.network(
+[Image url]
+width:  390*fem,
+height:  177*fem,
+),
+),
+Container(
+// undevelopmentprogrammetif (56:72)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 23*fem, 0*fem),
+child:  
+Text(
+'UN Development Programme',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  22*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+Container(
+// autogroupmrij9Ph (WFUKpLpBEoHT1bZmomMRij)
+width:  double.infinity,
+height:  517*fem,
+child:  
+Stack(
+children:  [
+Positioned(
+// autogroup4d9vUB5 (WFUHu4gG7jMSL2ftSq4D9V)
+left:  11*fem,
+top:  43*fem,
+child:  
+Container(
+width:  367*fem,
+height:  33*fem,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// autogroupatwxxM9 (WFUJ6UWuzbdxcbB5vNatWX)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 29*fem, 0*fem),
+width:  169*fem,
+height:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffd96800),
+borderRadius:  BorderRadius.circular(16*fem),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(5*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+child:  
+Center(
+child:  
+Text(
+'Follow',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  21*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+),
+Container(
+// autogroupn2mqufh (WFUJCZB7i6YnvjBQK6N2Mq)
+width:  169*fem,
+height:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xff85cddd),
+borderRadius:  BorderRadius.circular(16*fem),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(5*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+child:  
+Center(
+child:  
+Text(
+'Message',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  21*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+),
+],
+),
+),
+),
+Positioned(
+// khayabanesuhrwardyoppositeconv (56:77)
+left:  20*fem,
+top:  100*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  309*fem,
+height:  34*fem,
+child:  
+RichText(
+text:  
+TextSpan(
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  14*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.202000073*ffem/fem,
+color:  Color(0xff383838),
+),
+children:  [
+TextSpan(
+text:  'Khayaban-e-Suhrwardy, Opposite Convention Centre,, Islamabad 44000Islamabad, ',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  14*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.202000073*ffem/fem,
+color:  Color(0xff383838),
+),
+),
+TextSpan(
+text:  'Pakistan',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  14*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.202000073*ffem/fem,
+decoration:  TextDecoration.underline,
+color:  Color(0xff383838),
+decorationColor:  Color(0xff383838),
+),
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// autogroup31wbGKD (WFUKCMr8eZWYhFCpzi31Wb)
+left:  14*fem,
+top:  262*fem,
+child:  
+Container(
+width:  358*fem,
+height:  255*fem,
+child:  
+Stack(
+children:  [
+Positioned(
+// rectangle34kEP (60:88)
+left:  10*fem,
+top:  18*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  102*fem,
+height:  23*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(3*fem),
+border:  Border.all(color Color(0xff000000)),
+color:  Color(0xffd9d9d9),
+),
+),
+),
+),
+),
+Positioned(
+// pasteventscXV (60:89)
+left:  19*fem,
+top:  21*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  84*fem,
+height:  19*fem,
+child:  
+Text(
+'Past Events',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+),
+),
+Positioned(
+// rectangle35UJo (60:90)
+left:  112*fem,
+top:  18*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  158*fem,
+height:  23*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(3*fem),
+border:  Border.all(color Color(0xff000000)),
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+Positioned(
+// upcommingeventskGK (60:91)
+left:  127*fem,
+top:  21*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  138*fem,
+height:  19*fem,
+child:  
+Text(
+'Upcomming Events',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+),
+),
+Positioned(
+// line15RNT (60:119)
+left:  64.9970703125*fem,
+top:  78*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  0.02*fem,
+height:  1*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+color:  Color(0xffbbbaba),
+),
+),
+),
+),
+),
+Positioned(
+// line16i6f (60:120)
+left:  65*fem,
+top:  171*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  0.02*fem,
+height:  1*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+color:  Color(0xffbbbaba),
+),
+),
+),
+),
+),
+Positioned(
+// internationalconferenceonmedic (60:114)
+left:  71.5*fem,
+top:  77*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  277*fem,
+height:  55*fem,
+child:  
+RichText(
+textAlign:  TextAlign.center,
+text:  
+TextSpan(
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xff000000),
+),
+children:  [
+TextSpan(
+text:  'International Conference on Medical & Health Science (ICMHS)\n',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+TextSpan(
+text:  '• Conference • Researchfora',
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// internationalconferenceonscien (60:115)
+left:  72*fem,
+top:  173*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  273*fem,
+height:  55*fem,
+child:  
+RichText(
+textAlign:  TextAlign.center,
+text:  
+TextSpan(
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xff000000),
+),
+children:  [
+TextSpan(
+text:  'International Conference on Science, Engineering & Technology (ICSET)\n',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+TextSpan(
+text:  '• Conference • Researchfora',
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// rectangle10tcj (60:116)
+left:  0*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  358*fem,
+height:  255*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(3*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// th29thjul23Xvb (60:117)
+left:  1.5*fem,
+top:  77*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  62*fem,
+height:  55*fem,
+child:  
+Text(
+'28 th - 29 th\nJUL, 23',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+),
+),
+Positioned(
+// th29thjul23nbd (60:118)
+left:  1.5*fem,
+top:  169*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  62*fem,
+height:  55*fem,
+child:  
+Text(
+'28 th - 29 th\nJUL, 23',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+),
+),
+],
+),
+),
+),
+Positioned(
+// autogroupljafFk7 (WFUJPtBaJWDdcsjms6LJaF)
+left:  15*fem,
+top:  222*fem,
+child:  
+Container(
+width:  165*fem,
+height:  20*fem,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// vectorYUK (60:85)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 8*fem, 0*fem),
+width:  18*fem,
+height:  17*fem,
+child:  
+Image.network(
+[Image url]
+width:  18*fem,
+height:  17*fem,
+),
+),
+Container(
+// autogroupkv8wR2K (WFUJkNbS7PZZaSH2xwkV8w)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 26*fem, 0*fem),
+width:  26*fem,
+height:  double.infinity,
+child:  
+Stack(
+children:  [
+Positioned(
+// in7 (60:81)
+left:  0*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  26*fem,
+height:  20*fem,
+child:  
+Text(
+'4.2',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  16*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.2020000219*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+),
+),
+Positioned(
+// BQo (60:84)
+left:  0*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  26*fem,
+height:  20*fem,
+child:  
+Text(
+'4.2',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  16*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.2020000219*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+),
+),
+],
+),
+),
+Container(
+// autogroupynnwT7R (WFUJv2z12cvkQKvt44YnNw)
+width:  87*fem,
+height:  double.infinity,
+child:  
+Stack(
+children:  [
+Positioned(
+// ratingsaC3 (60:83)
+left:  0*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  87*fem,
+height:  20*fem,
+child:  
+Text(
+'121 Ratings',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  16*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2020000219*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+),
+),
+Positioned(
+// ratingsF3H (60:86)
+left:  0*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  87*fem,
+height:  20*fem,
+child:  
+Text(
+'121 Ratings',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  16*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2020000219*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+),
+),
+],
+),
+),
+],
+),
+),
+),
+Positioned(
+// ratingKJ3 (60:82)
+left:  18*fem,
+top:  182*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  70*fem,
+height:  27*fem,
+child:  
+Text(
+'Rating',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  22*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.2020000111*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+),
+),
+],
+),
+),
+],
+),
+),
+),
+),
+Container(
+// frame12daK (32:320)
+width:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffffffff),
+),
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// autogroupmmddh4P (WFU3htVYab9sVqTwiMMmDD)
+padding:  EdgeInsets.fromLTRB(25*fem, 94*fem, 101*fem, 67*fem),
+width:  double.infinity,
+height:  225*fem,
+decoration:  BoxDecoration (
+gradient:  LinearGradient (
+begin:  Alignment(-1.041, 0.35),
+end:  Alignment(1.885, 0.32),
+colors:  <Color>[Color(0xff00343f), Color(0x77023e4b)],
+stops:  <double>[0, 1],
+),
+),
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// autogrouppe6oH2b (WFU3viTWHFtzsR3Bt9PE6o)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 10*fem, 0*fem),
+padding:  EdgeInsets.fromLTRB(19*fem, 15*fem, 21*fem, 20*fem),
+height:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffd9d9d9),
+borderRadius:  BorderRadius.circular(32*fem),
+),
+child:  
+Center(
+// vectorZVu (32:355)
+child:  
+SizedBox(
+width:  24*fem,
+height:  29*fem,
+child:  
+Image.network(
+[Image url]
+width:  24*fem,
+height:  29*fem,
+),
+),
+),
+),
+Container(
+// autogrouphafmfJ3 (WFU42xn6Zg3CNNwA7xHAFM)
+margin:  EdgeInsets.fromLTRB(0*fem, 6*fem, 0*fem, 0*fem),
+width:  190*fem,
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// charlottejamesyJj (32:356)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 4*fem),
+child:  
+Text(
+'Charlotte James',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  23*ffem,
+fontWeight:  FontWeight.w800,
+height:  1.201999996*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+Container(
+// autogroupzgubc6o (WFU4ANjQpWnxB84hHNzgUb)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 131*fem, 0*fem),
+width:  double.infinity,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// vectorWxs (32:374)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 8*fem, 0*fem),
+width:  18*fem,
+height:  18*fem,
+child:  
+Image.network(
+[Image url]
+width:  18*fem,
+height:  18*fem,
+),
+),
+Text(
+// edit1Pq (32:372)
+'Edit',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  18*ffem,
+fontWeight:  FontWeight.w300,
+height:  1.2019999822*ffem/fem,
+color:  Color(0xfff0f0f0),
+),
+),
+],
+),
+),
+],
+),
+),
+],
+),
+),
+Container(
+// autogroupb24b7xf (WFU4urUxx3wHtdW1BQb24b)
+padding:  EdgeInsets.fromLTRB(3*fem, 47*fem, 0*fem, 0*fem),
+width:  double.infinity,
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// autogroupyh8ops5 (WFU4U7irGFqMZ4QgvGyh8o)
+margin:  EdgeInsets.fromLTRB(40*fem, 0*fem, 131*fem, 34.73*fem),
+width:  double.infinity,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.end,
+children:  [
+Container(
+// vectorwB1 (32:358)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 14*fem, 1*fem),
+width:  43*fem,
+height:  30*fem,
+child:  
+Image.network(
+[Image url]
+width:  43*fem,
+height:  30*fem,
+),
+),
+Text(
+// mycontactinfoRrs (32:359)
+'My Contact Info',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  21*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2020000276*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+],
+),
+),
+Container(
+// autogroupvoxx7zb (WFU4brzwew3qjTKXmsvoxX)
+margin:  EdgeInsets.fromLTRB(51.92*fem, 0*fem, 205.5*fem, 28*fem),
+width:  double.infinity,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.end,
+children:  [
+Container(
+// iconsaxlinearsetting2SGB (32:360)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 18.4*fem, 3.73*fem),
+width:  29.18*fem,
+height:  27.53*fem,
+child:  
+Image.network(
+[Image url]
+width:  29.18*fem,
+height:  27.53*fem,
+),
+),
+Text(
+// settingsiUb (32:370)
+'Settings',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  21*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2020000276*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+],
+),
+),
+Container(
+// group32Exj (99:758)
+margin:  EdgeInsets.fromLTRB(46*fem, 0*fem, 190*fem, 34*fem),
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+width:  double.infinity,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.end,
+children:  [
+Container(
+// event20removebgpreview17Wj (94:662)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 16*fem, 0*fem),
+width:  35*fem,
+height:  35*fem,
+child:  
+Image.network(
+[Image url]
+fit:  BoxFit.cover,
+),
+),
+Text(
+// highlightszKd (32:369)
+'Highlights',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  21*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2020000276*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+],
+),
+),
+),
+),
+Container(
+// line26tT (32:371)
+margin:  EdgeInsets.fromLTRB(20*fem, 0*fem, 30*fem, 39.66*fem),
+width:  double.infinity,
+height:  1*fem,
+decoration:  BoxDecoration (
+color:  Color(0xffb8b8b8),
+),
+),
+Container(
+// autogroupy8juDiB (WFU4j2Tg4PxYkxcbAfy8ju)
+margin:  EdgeInsets.fromLTRB(55.7*fem, 0*fem, 205*fem, 228.93*fem),
+width:  double.infinity,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.end,
+children:  [
+Container(
+// iconsaxlinearlogoutcurveXym (32:363)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 19.19*fem, 1.25*fem),
+width:  28.11*fem,
+height:  28.17*fem,
+child:  
+Image.network(
+[Image url]
+width:  28.11*fem,
+height:  28.17*fem,
+),
+),
+Text(
+// logoutcVR (32:368)
+'Log Out',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  21*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2020000276*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+],
+),
+),
+Container(
+// group31XsH (94:610)
+width:  390*fem,
+height:  79*fem,
+child:  
+Image.network(
+[Image url]
+width:  390*fem,
+height:  79*fem,
+),
+),
+],
+),
+),
+],
+),
+),
+TextButton(
+// frame4063M (120:269)
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+width:  double.infinity,
+height:  844*fem,
+decoration:  BoxDecoration (
+color:  Color(0xffffffff),
+),
+child:  
+Align(
+// googlemapta191d (132:10)
+alignment:  Alignment.centerLeft,
+child:  
+SizedBox(
+width:  1569*fem,
+height:  2197*fem,
+child:  
+Image.network(
+[Image url]
+fit:  BoxFit.cover,
+),
+),
+),
+),
+),
+Container(
+// frame33uaT (94:663)
+width:  double.infinity,
+height:  844*fem,
+decoration:  BoxDecoration (
+color:  Color(0xffffffff),
+),
+child:  
+Stack(
+children:  [
+Positioned(
+// group31kqy (94:681)
+left:  3*fem,
+top:  765*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  390*fem,
+height:  79*fem,
+child:  
+Image.network(
+[Image url]
+width:  390*fem,
+height:  79*fem,
+),
+),
+),
+),
+Positioned(
+// group13brb (94:706)
+left:  0*fem,
+top:  538*fem,
+child:  
+Container(
+padding:  EdgeInsets.fromLTRB(104*fem, 188*fem, 88*fem, 105*fem),
+width:  407*fem,
+height:  342*fem,
+decoration:  BoxDecoration (
+color:  Color(0xff00343f),
+),
+child:  
+Container(
+// group36sp7 (117:61)
+width:  double.infinity,
+height:  double.infinity,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+),
+child:  
+TextButton(
+// group29ohm (99:760)
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+width:  double.infinity,
+height:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffff7a00),
+borderRadius:  BorderRadius.circular(16*fem),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(5*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+child:  
+Center(
+child:  
+Text(
+'View More',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  17*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+),
+),
+),
+Positioned(
+// rectangle47wxP (94:709)
+left:  0*fem,
+top:  5*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  397*fem,
+height:  685*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(43*fem),
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+Positioned(
+// rectangle49d4X (94:711)
+left:  173*fem,
+top:  91*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  191*fem,
+height:  47*fem,
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(8*fem),
+color:  Color(0xb2e3e2e1),
+),
+),
+),
+),
+),
+),
+Positioned(
+// upcommingVMd (94:714)
+left:  217*fem,
+top:  104*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  120*fem,
+height:  26*fem,
+child:  
+Text(
+'Upcomming',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  21*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2020000276*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+),
+),
+Positioned(
+// rectangle489BH (94:710)
+left:  27*fem,
+top:  91*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  179*fem,
+height:  47*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(8*fem),
+color:  Color(0xff006177),
+),
+),
+),
+),
+),
+Positioned(
+// recentsSAP (94:713)
+left:  73*fem,
+top:  104*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  81*fem,
+height:  26*fem,
+child:  
+Text(
+'Recents',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  21*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2020000276*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+Positioned(
+// rectangle5071d (99:715)
+left:  28*fem,
+top:  172*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  336*fem,
+height:  206*fem,
+child:  
+Image.network(
+[Image url]
+fit:  BoxFit.cover,
+),
+),
+),
+),
+Positioned(
+// rectangle51Pjq (99:717)
+left:  27*fem,
+top:  412*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  336*fem,
+height:  206*fem,
+child:  
+Image.network(
+[Image url]
+fit:  BoxFit.cover,
+),
+),
+),
+),
+Positioned(
+// digitalmarketingbootcamp5cf (99:718)
+left:  56*fem,
+top:  461*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  186*fem,
+height:  130*fem,
+child:  
+Text(
+'Digital Marketing Bootcamp',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  36*ffem,
+fontWeight:  FontWeight.w900,
+height:  1.2019999822*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+),
+),
+Positioned(
+// roboticsworkshopWT5 (99:716)
+left:  52*fem,
+top:  257*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  188*fem,
+height:  87*fem,
+child:  
+Text(
+'Robotics Workshop',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  36*ffem,
+fontWeight:  FontWeight.w900,
+height:  1.2019999822*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+),
+),
+],
+),
+),
+Container(
+// frame34uGF (99:719)
+width:  double.infinity,
+height:  844*fem,
+decoration:  BoxDecoration (
+color:  Color(0xffffffff),
+),
+child:  
+Stack(
+children:  [
+Positioned(
+// group31LMZ (99:720)
+left:  3*fem,
+top:  765*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  390*fem,
+height:  79*fem,
+child:  
+Image.network(
+[Image url]
+width:  390*fem,
+height:  79*fem,
+),
+),
+),
+),
+Positioned(
+// group13yvK (99:744)
+left:  0*fem,
+top:  570*fem,
+child:  
+Container(
+padding:  EdgeInsets.fromLTRB(101*fem, 156*fem, 91*fem, 101*fem),
+width:  407*fem,
+height:  306*fem,
+decoration:  BoxDecoration (
+color:  Color(0xff00343f),
+),
+child:  
+Container(
+// group37Fcw (117:62)
+width:  double.infinity,
+height:  double.infinity,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+),
+child:  
+TextButton(
+// group29nMy (99:763)
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+width:  double.infinity,
+height:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffff7a00),
+borderRadius:  BorderRadius.circular(16*fem),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(5*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+child:  
+Center(
+child:  
+Text(
+'View More',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  17*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+),
+),
+),
+Positioned(
+// rectangle47KmD (99:747)
+left:  0*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  393*fem,
+height:  692*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(43*fem),
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+Positioned(
+// rectangle48Q1y (99:750)
+left:  31*fem,
+top:  94*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  179*fem,
+height:  47*fem,
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(8*fem),
+color:  Color(0xffe3e2e1),
+),
+),
+),
+),
+),
+),
+Positioned(
+// recents3Kq (99:751)
+left:  70*fem,
+top:  107*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  81*fem,
+height:  26*fem,
+child:  
+Text(
+'Recents',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  21*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2020000276*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+),
+),
+Positioned(
+// rectangle50Vhd (99:752)
+left:  32*fem,
+top:  407*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  336*fem,
+height:  206*fem,
+child:  
+Image.network(
+[Image url]
+fit:  BoxFit.cover,
+),
+),
+),
+),
+Positioned(
+// rectangle51Aom (99:753)
+left:  33*fem,
+top:  171*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  336*fem,
+height:  206*fem,
+child:  
+Image.network(
+[Image url]
+fit:  BoxFit.cover,
+),
+),
+),
+),
+Positioned(
+// womenintechseminardhM (99:754)
+left:  62*fem,
+top:  220*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  180*fem,
+height:  130*fem,
+child:  
+Text(
+'Women in Tech Seminar',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  36*ffem,
+fontWeight:  FontWeight.w900,
+height:  1.2019999822*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+),
+),
+Positioned(
+// introductiontopythonprogrammin (99:755)
+left:  52*fem,
+top:  464*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  245*fem,
+height:  130*fem,
+child:  
+Text(
+'Introduction to Python Programming',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  36*ffem,
+fontWeight:  FontWeight.w900,
+height:  1.2019999822*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+),
+),
+Positioned(
+// rectangle49YSw (99:748)
+left:  177*fem,
+top:  94*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  191*fem,
+height:  47*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(8*fem),
+color:  Color(0xff006177),
+),
+),
+),
+),
+),
+Positioned(
+// upcomming27D (99:749)
+left:  212*fem,
+top:  107*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  120*fem,
+height:  26*fem,
+child:  
+Text(
+'Upcomming',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  21*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2020000276*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+],
+),
+),
+Container(
+// frame35ixs (105:794)
+width:  double.infinity,
+height:  844*fem,
+decoration:  BoxDecoration (
+color:  Color(0xffffffff),
+),
+child:  
+Stack(
+children:  [
+Positioned(
+// group31y87 (105:795)
+left:  3*fem,
+top:  765*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  390*fem,
+height:  79*fem,
+child:  
+Image.network(
+[Image url]
+width:  390*fem,
+height:  79*fem,
+),
+),
+),
+),
+Positioned(
+// group13Qz7 (105:819)
+left:  0*fem,
+top:  568*fem,
+child:  
+Container(
+padding:  EdgeInsets.fromLTRB(104*fem, 158*fem, 88*fem, 99*fem),
+width:  407*fem,
+height:  306*fem,
+decoration:  BoxDecoration (
+color:  Color(0xff00343f),
+),
+child:  
+Container(
+// group386M9 (117:63)
+width:  double.infinity,
+height:  double.infinity,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(16*fem),
+),
+child:  
+TextButton(
+// group29ReK (105:821)
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+width:  double.infinity,
+height:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffff7a00),
+borderRadius:  BorderRadius.circular(16*fem),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(5*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+child:  
+Center(
+child:  
+Text(
+'Add More',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  17*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+),
+),
+),
+Positioned(
+// rectangle47L91 (105:824)
+left:  0*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  393*fem,
+height:  692*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(43*fem),
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+Positioned(
+// rectangle51zzF (105:828)
+left:  27*fem,
+top:  176*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  336*fem,
+height:  206*fem,
+child:  
+Image.network(
+[Image url]
+fit:  BoxFit.cover,
+),
+),
+),
+),
+Positioned(
+// mobilesciencelab6XV (105:829)
+left:  50*fem,
+top:  225*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  146*fem,
+height:  130*fem,
+child:  
+Text(
+'Mobile\nScience\nLab',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  36*ffem,
+fontWeight:  FontWeight.w900,
+height:  1.2019999822*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+),
+),
+Positioned(
+// group359Es (105:833)
+left:  94*fem,
+top:  0*fem,
+child:  
+Container(
+width:  230*fem,
+height:  147*fem,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(8*fem),
+),
+child:  
+Stack(
+children:  [
+Positioned(
+// rectangle492Jf (105:831)
+left:  0*fem,
+top:  95*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  191*fem,
+height:  47*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(8*fem),
+color:  Color(0xff006177),
+),
+),
+),
+),
+),
+Positioned(
+// savedVi3 (105:832)
+left:  67*fem,
+top:  106*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  62*fem,
+height:  26*fem,
+child:  
+Text(
+'Saved',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  21*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2020000276*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+],
+),
+),
+),
+],
+),
+),
+TextButton(
+// frame377Aj (120:187)
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+padding:  EdgeInsets.fromLTRB(45*fem, 78*fem, 51*fem, 476*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffffffff),
+),
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// accounttypegd9 (120:188)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 57*fem),
+child:  
+Text(
+'Account Type',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  27*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.2020000882*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+Container(
+// areyouaprovideroraseekerKg7 (120:189)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 86*fem),
+child:  
+Text(
+'Are you a provider or a seeker?',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  20*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+Container(
+// component2mo1 (120:190)
+margin:  EdgeInsets.fromLTRB(27*fem, 0*fem, 69*fem, 23*fem),
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+padding:  EdgeInsets.fromLTRB(0*fem, 0*fem, 75*fem, 0*fem),
+width:  double.infinity,
+height:  33*fem,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// autogrouptb6kCtK (WFU9W4AjteB2A6cjePtb6K)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 15*fem, 4*fem),
+padding:  EdgeInsets.fromLTRB(7*fem, 7*fem, 7*fem, 7*fem),
+width:  29*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xff000000)),
+color:  Color(0xffffffff),
+borderRadius:  BorderRadius.circular(53*fem),
+),
+child:  
+Center(
+// rectangle602cT (120:197)
+child:  
+SizedBox(
+width:  double.infinity,
+height:  15*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(53*fem),
+border:  Border.all(color Color(0xff000000)),
+color:  Color(0xff006177),
+),
+),
+),
+),
+),
+Container(
+// provider6MR (I120:190;120:113)
+margin:  EdgeInsets.fromLTRB(0*fem, 2*fem, 0*fem, 0*fem),
+child:  
+Text(
+'Provider',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  20*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+],
+),
+),
+),
+),
+Container(
+// component3AMH (120:191)
+margin:  EdgeInsets.fromLTRB(27*fem, 0*fem, 69*fem, 0*fem),
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+padding:  EdgeInsets.fromLTRB(0*fem, 0*fem, 88*fem, 0*fem),
+width:  double.infinity,
+height:  33*fem,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// rectangle60PE3 (I120:191;120:138)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 15*fem, 4*fem),
+width:  29*fem,
+height:  29*fem,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(53*fem),
+border:  Border.all(color Color(0xff000000)),
+color:  Color(0xffffffff),
+),
+),
+Container(
+// seekerH4X (I120:191;120:137)
+margin:  EdgeInsets.fromLTRB(0*fem, 2*fem, 0*fem, 0*fem),
+child:  
+Text(
+'Seeker',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  20*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+],
+),
+),
+),
+),
+],
+),
+),
+),
+Container(
+// frame16c3M (42:70)
+padding:  EdgeInsets.fromLTRB(15*fem, 78*fem, 16*fem, 72*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffffffff),
+),
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// additionalinformationp9R (42:71)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 68*fem),
+child:  
+Text(
+'Additional Information',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  27*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.2020000882*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+Container(
+// autogroupwwsvFVd (WFU9wi6fHyfGuFmDyywWsV)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Organization name',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroupzq95FP9 (WFUA5hsLY2iortWYcDZq95)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 1*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Website (if applicable)',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroup3kmq57H (WFUACnVsf31qHyrn5U3kmq)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 26*fem, 17*fem),
+height:  114*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Description of your organization or company',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroupj5p7K1d (WFUAKXodeCr8MRRhrYJ5p7)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 20*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Align(
+// typeofeventsyouareinterestedin (42:80)
+alignment:  Alignment.centerLeft,
+child:  
+SizedBox(
+child:  
+Container(
+constraints:  BoxConstraints (
+maxWidth:  255*fem,
+),
+child:  
+Text(
+'Type of events you are interested in organizing',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+),
+),
+Container(
+// autogroupa1byeCK (WFUAT2b9BWDZkaW4wWa1By)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 50*fem),
+width:  358*fem,
+height:  74*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Stack(
+children:  [
+Positioned(
+// locationswhereyouareinterested (42:91)
+left:  17*fem,
+top:  17*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  267*fem,
+height:  37*fem,
+child:  
+Text(
+'Locations where you are interested in organizing events',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+),
+Positioned(
+// rectangle33Yh1 (42:92)
+left:  0*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  358*fem,
+height:  74*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(4*fem),
+border:  Border.all(color Color(0xffababab)),
+),
+),
+),
+),
+),
+Positioned(
+// locationswhereyouareinterested (42:93)
+left:  17*fem,
+top:  17*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  267*fem,
+height:  37*fem,
+child:  
+Text(
+'Locations where you are interested in organizing events',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+),
+],
+),
+),
+Container(
+// group41HHD (120:151)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 10*fem, 43*fem),
+padding:  EdgeInsets.fromLTRB(8*fem, 0*fem, 8*fem, 0*fem),
+width:  double.infinity,
+height:  36*fem,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(8*fem),
+),
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// autogroupwuabZVd (WFUBFkkHNwMXcBobqkwuaB)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 192*fem, 0*fem),
+width:  70*fem,
+height:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0x82d9d9d9),
+borderRadius:  BorderRadius.circular(8*fem),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+child:  
+Center(
+child:  
+Text(
+'Back',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+Container(
+// autogrouppfp9kq1 (WFUBMFb87DxamSC8mfpFP9)
+width:  70*fem,
+height:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0x82d9d9d9),
+borderRadius:  BorderRadius.circular(8*fem),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+child:  
+Center(
+child:  
+Text(
+'Next',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+],
+),
+),
+Container(
+// autogroupptpfnmh (WFUAgGi5JU376DoSj2PTpf)
+margin:  EdgeInsets.fromLTRB(70*fem, 0*fem, 69*fem, 0*fem),
+padding:  EdgeInsets.fromLTRB(1*fem, 0*fem, 1*fem, 0*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffd9d9d9),
+borderRadius:  BorderRadius.circular(47*fem),
+),
+child:  
+Align(
+// rectangle55tZq (120:84)
+alignment:  Alignment.centerLeft,
+child:  
+SizedBox(
+width:  111*fem,
+height:  12*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(47*fem),
+color:  Color(0xff006177),
+),
+),
+),
+),
+),
+],
+),
+),
+Container(
+// frame38DZm (120:224)
+padding:  EdgeInsets.fromLTRB(15*fem, 78*fem, 16*fem, 72*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffffffff),
+),
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// setyourprofileRvj (120:225)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 42*fem),
+child:  
+Text(
+'Set Your Profile',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  27*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.2020000882*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+Container(
+// autogroupvophGwM (WFUUcfzAvNj1K8JH6YvoPh)
+margin:  EdgeInsets.fromLTRB(131*fem, 0*fem, 148*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(25*fem, 18*fem, 25*fem, 24*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+image:  DecorationImage (
+fit:  BoxFit.cover,
+image:  NetworkImage (
+[Image url]
+),
+),
+),
+child:  
+Center(
+// vectorLAX (120:233)
+child:  
+SizedBox(
+width:  30*fem,
+height:  35*fem,
+child:  
+Image.network(
+[Image url]
+width:  30*fem,
+height:  35*fem,
+),
+),
+),
+),
+Container(
+// uploadprofilephotoEmh (120:234)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 14*fem, 55*fem),
+child:  
+Text(
+'Upload Profile Photo',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  18*ffem,
+fontWeight:  FontWeight.w300,
+height:  1.2019999822*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+Container(
+// autogroupnifmY1h (WFUUm15dJGFGeQpuQxniFm)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Social Media Links ',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogrouphnlkAYs (WFUUzVh9GburmHxky7HNLK)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 1*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Interests or Hobbies',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroupiqjhzno (WFUVCVMA8gWACk5juTiqjh)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 149*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Occupation or Field of Study',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// group44D9m (120:237)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 10*fem, 43*fem),
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+padding:  EdgeInsets.fromLTRB(8*fem, 0*fem, 8*fem, 0*fem),
+width:  double.infinity,
+height:  36*fem,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(8*fem),
+),
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// autogroupujfupvF (WFUVkivSxGbLpWuWB2uJFu)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 192*fem, 0*fem),
+width:  70*fem,
+height:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0x82d9d9d9),
+borderRadius:  BorderRadius.circular(8*fem),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+child:  
+Center(
+child:  
+Text(
+'Skip',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff006177),
+),
+),
+),
+),
+Container(
+// autogrouptsn7qKZ (WFUVrPRgFURmAbBgx2tSN7)
+width:  70*fem,
+height:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0x82d9d9d9),
+borderRadius:  BorderRadius.circular(8*fem),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+child:  
+Center(
+child:  
+Text(
+'Next',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+],
+),
+),
+),
+),
+Container(
+// autogroupv7hdT63 (WFUVQEWb9PFQrxNF5BV7hD)
+margin:  EdgeInsets.fromLTRB(70*fem, 0*fem, 69*fem, 0*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffd9d9d9),
+borderRadius:  BorderRadius.circular(47*fem),
+),
+child:  
+Center(
+// rectangle59MhD (120:236)
+child:  
+SizedBox(
+width:  double.infinity,
+height:  12*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(47*fem),
+color:  Color(0xff006177),
+),
+),
+),
+),
+),
+],
+),
+),
+Container(
+// frame7FdM (21:165)
+padding:  EdgeInsets.fromLTRB(0*fem, 38*fem, 0*fem, 0*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffffffff),
+),
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// managerequestsGHZ (30:150)
+margin:  EdgeInsets.fromLTRB(16*fem, 0*fem, 0*fem, 30*fem),
+child:  
+Text(
+'Manage Requests',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  27*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.2020000882*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+Container(
+// autogroupmjasiQT (WFTr5PY6aZ7pkaasr7mjas)
+margin:  EdgeInsets.fromLTRB(16*fem, 0*fem, 16*fem, 29*fem),
+width:  double.infinity,
+height:  635*fem,
+child:  
+Stack(
+children:  [
+Positioned(
+// rectangle30Q2P (31:191)
+left:  13*fem,
+top:  101*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  329*fem,
+height:  184*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(7*fem),
+color:  Color(0xd1f3f3f3),
+),
+),
+),
+),
+),
+Positioned(
+// ellipse3exK (30:152)
+left:  21*fem,
+top:  34*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  54*fem,
+height:  51*fem,
+child:  
+Image.network(
+[Image url]
+width:  54*fem,
+height:  51*fem,
+),
+),
+),
+),
+Positioned(
+// line2jis (31:199)
+left:  22*fem,
+top:  339*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  208*fem,
+height:  1*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+color:  Color(0xffb8b8b8),
+),
+),
+),
+),
+),
+Positioned(
+// line3dZM (31:200)
+left:  22*fem,
+top:  386*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  208*fem,
+height:  1*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+color:  Color(0xffb8b8b8),
+),
+),
+),
+),
+),
+Positioned(
+// vectorX8w (30:153)
+left:  37*fem,
+top:  46*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  20.61*fem,
+height:  23.1*fem,
+child:  
+Image.network(
+[Image url]
+width:  20.61*fem,
+height:  23.1*fem,
+),
+),
+),
+),
+Positioned(
+// rectangle10b8o (30:151)
+left:  0*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  358*fem,
+height:  635*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(15*fem),
+border:  Border.all(color Color(0xffababab)),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(3*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// milliebrown431pGT (30:154)
+left:  85*fem,
+top:  38*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  134*fem,
+height:  22*fem,
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Text(
+'MillieBrown431',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  18*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2019999822*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+),
+),
+),
+Positioned(
+// milliebrown431emailcomT4X (30:155)
+left:  85*fem,
+top:  59*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  194*fem,
+height:  19*fem,
+child:  
+Text(
+'MillieBrown431@email.com',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+),
+Positioned(
+// thecybersecuritysummitisaneven (31:156)
+left:  21*fem,
+top:  107*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  308*fem,
+height:  156*fem,
+child:  
+RichText(
+text:  
+TextSpan(
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  16*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2102272511*ffem/fem,
+color:  Color(0xff333232),
+),
+children:  [
+TextSpan(
+text:  'The Cyber Security Summit is an event dedicated to educating individuals and businesses on the latest trends and best practices in cyber security. This year\'s summit will focus on topics such as data privacy, network security, and cyber threat intelligence. We will be featuring expert keynote ...',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  16*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+TextSpan(
+text:  'See More',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  16*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.2125*ffem/fem,
+color:  Color(0xff0276c9),
+),
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// eventtittlecybersecuritysummit (31:195)
+left:  22*fem,
+top:  306*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  269*fem,
+height:  20*fem,
+child:  
+Text(
+'Event Tittle: Cyber Security Summit',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  16*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff676767),
+),
+),
+),
+),
+),
+Positioned(
+// dateofeventapril1st2023YJF (31:197)
+left:  21*fem,
+top:  352*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  221*fem,
+height:  20*fem,
+child:  
+Text(
+'Date of Event: April 1st, 2023',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  16*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff676767),
+),
+),
+),
+),
+),
+Positioned(
+// expectednumberofattendees100oV (31:198)
+left:  21*fem,
+top:  399*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  275*fem,
+height:  20*fem,
+child:  
+Text(
+'Expected Number of Attendees: 100',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  16*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff676767),
+),
+),
+),
+),
+),
+Positioned(
+// line4g35 (31:201)
+left:  22*fem,
+top:  432*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  208*fem,
+height:  1*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+color:  Color(0xffb8b8b8),
+),
+),
+),
+),
+),
+Positioned(
+// estimatedbudget200009xF (31:202)
+left:  21*fem,
+top:  445*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  207*fem,
+height:  20*fem,
+child:  
+Text(
+'Estimated Budget: \$20,000',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  16*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff676767),
+),
+),
+),
+),
+),
+Positioned(
+// group29Rum (90:565)
+left:  67*fem,
+top:  554*fem,
+child:  
+Container(
+width:  215*fem,
+height:  49*fem,
+decoration:  BoxDecoration (
+color:  Color(0xffd96800),
+borderRadius:  BorderRadius.circular(16*fem),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(5*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+child:  
+Center(
+child:  
+Text(
+'Connection Request',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  17*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+),
+),
+Positioned(
+// rectangle31CZ9 (31:192)
+left:  13*fem,
+top:  483*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  321*fem,
+height:  46*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(7*fem),
+border:  Border.all(color Color(0xffababab)),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(3*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// techevent24offerssentSiP (31:193)
+left:  26*fem,
+top:  495*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  209*fem,
+height:  20*fem,
+child:  
+Text(
+'Tech Event / 24 Offers Sent',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  16*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff9c9797),
+),
+),
+),
+),
+),
+],
+),
+),
+Container(
+// group30Hyu (120:89)
+width:  390*fem,
+height:  79*fem,
+child:  
+Image.network(
+[Image url]
+width:  390*fem,
+height:  79*fem,
+),
+),
+],
+),
+),
+TextButton(
+// frame11L5y (31:207)
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+padding:  EdgeInsets.fromLTRB(3*fem, 27*fem, 0*fem, 0*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffffffff),
+),
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// autogroupamdmtmh (WFTtHk1tshAn4nG9TbamdM)
+margin:  EdgeInsets.fromLTRB(9*fem, 0*fem, 19*fem, 38*fem),
+width:  double.infinity,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// vectorAjD (105:789)
+margin:  EdgeInsets.fromLTRB(0*fem, 0.32*fem, 11.12*fem, 0*fem),
+child:  
+TextButton(
+onPressed:  () {},
+style:  TextButton.styleFrom (
+padding:  EdgeInsets.zero,
+),
+child:  
+Container(
+width:  26.88*fem,
+height:  25.32*fem,
+child:  
+Image.network(
+[Image url]
+width:  26.88*fem,
+height:  25.32*fem,
+),
+),
+),
+),
+Container(
+// inboxbJj (32:301)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 220*fem, 0*fem),
+child:  
+Text(
+'Inbox',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  27*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.2020000882*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+Container(
+// vector4CK (32:303)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 6.78*fem),
+width:  27*fem,
+height:  24.22*fem,
+child:  
+Image.network(
+[Image url]
+width:  27*fem,
+height:  24.22*fem,
+),
+),
+],
+),
+),
+Container(
+// autogroupeyjrwG7 (WFTtbjVvAp4EDxScs8EyjR)
+margin:  EdgeInsets.fromLTRB(14*fem, 0*fem, 20*fem, 36*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 13*fem, 17*fem, 11*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xfff6f6f6),
+borderRadius:  BorderRadius.circular(7*fem),
+),
+child:  
+Text(
+'Search...',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  18*ffem,
+fontWeight:  FontWeight.w300,
+height:  1.2019999822*ffem/fem,
+color:  Color(0xffadabab),
+),
+),
+),
+Container(
+// autogroupmeafLJF (WFTtoyeWtGVaSeQ5a7Meaf)
+margin:  EdgeInsets.fromLTRB(14*fem, 0*fem, 20*fem, 14*fem),
+width:  double.infinity,
+height:  51*fem,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// autogroupng6fRab (WFTu7dom3YvJEAoFHTnG6F)
+padding:  EdgeInsets.fromLTRB(16*fem, 12*fem, 17.39*fem, 15.9*fem),
+height:  double.infinity,
+decoration:  BoxDecoration (
+image:  DecorationImage (
+fit:  BoxFit.cover,
+image:  NetworkImage (
+[Image url]
+),
+),
+),
+child:  
+Center(
+// vectorhHD (31:242)
+child:  
+SizedBox(
+width:  20.61*fem,
+height:  23.1*fem,
+child:  
+Image.network(
+[Image url]
+width:  20.61*fem,
+height:  23.1*fem,
+),
+),
+),
+),
+Container(
+// autogroupdc3dbNb (WFTuXhwz4AiahUz35iDc3d)
+padding:  EdgeInsets.fromLTRB(7*fem, 1*fem, 0*fem, 1*fem),
+height:  double.infinity,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// autogroupazlfhgX (WFTuHJCKxnHV44T6NaaZLF)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 110*fem, 0*fem),
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// milliebrown431pm9 (31:243)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 5*fem),
+child:  
+Text(
+'MillieBrown431',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  18*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2019999822*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+Text(
+// hellohpw (31:244)
+'Hello..!!',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+],
+),
+),
+Container(
+// mar211qd (31:245)
+margin:  EdgeInsets.fromLTRB(0*fem, 1*fem, 0*fem, 0*fem),
+child:  
+Text(
+'Mar 21',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+],
+),
+),
+],
+),
+),
+Container(
+// line5JZq (31:246)
+margin:  EdgeInsets.fromLTRB(48*fem, 0*fem, 0*fem, 30*fem),
+width:  299*fem,
+height:  1*fem,
+decoration:  BoxDecoration (
+color:  Color(0xffb8b8b8),
+),
+),
+Container(
+// autogroup915moWb (WFTurnEY3Fbua2TFVK915m)
+margin:  EdgeInsets.fromLTRB(13*fem, 0*fem, 21*fem, 14*fem),
+width:  double.infinity,
+height:  51*fem,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// autogroupmcrfuJj (WFTvA2EonExDPV8HawmcrF)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 7*fem, 0*fem),
+padding:  EdgeInsets.fromLTRB(16*fem, 12*fem, 17.39*fem, 15.9*fem),
+height:  double.infinity,
+decoration:  BoxDecoration (
+image:  DecorationImage (
+fit:  BoxFit.cover,
+image:  NetworkImage (
+[Image url]
+),
+),
+),
+child:  
+Center(
+// vectormLw (32:248)
+child:  
+SizedBox(
+width:  20.61*fem,
+height:  23.1*fem,
+child:  
+Image.network(
+[Image url]
+width:  20.61*fem,
+height:  23.1*fem,
+),
+),
+),
+),
+Container(
+// autogroupqn4jGHh (WFTvFBksNh6YB5jWpgQN4j)
+margin:  EdgeInsets.fromLTRB(0*fem, 1*fem, 0*fem, 0*fem),
+width:  292*fem,
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// autogroupwukzaJP (WFTvLw6HxMYe7ZxXXDwuKZ)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 5*fem),
+width:  double.infinity,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// bessiecooper5W3 (32:249)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 117*fem, 0*fem),
+child:  
+Text(
+'Bessie Cooper',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  18*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2019999822*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+Container(
+// mar19ks5 (32:251)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 1*fem),
+child:  
+Text(
+'Mar 19',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+],
+),
+),
+Text(
+// pleasereviewtheattacheddetails (32:250)
+' Please review the attached details....',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+],
+),
+),
+],
+),
+),
+Container(
+// line6wgf (32:252)
+margin:  EdgeInsets.fromLTRB(46*fem, 0*fem, 0*fem, 32*fem),
+width:  299*fem,
+height:  1*fem,
+decoration:  BoxDecoration (
+color:  Color(0xffb8b8b8),
+),
+),
+Container(
+// autogroupawafrHq (WFTvf1QWXw3msA5prJAWaF)
+margin:  EdgeInsets.fromLTRB(13*fem, 0*fem, 21*fem, 14*fem),
+width:  double.infinity,
+height:  51*fem,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// autogroupozhdx5y (WFTvuRAAdKUsWacmZRoZHd)
+padding:  EdgeInsets.fromLTRB(16*fem, 12*fem, 17.39*fem, 15.9*fem),
+height:  double.infinity,
+decoration:  BoxDecoration (
+image:  DecorationImage (
+fit:  BoxFit.cover,
+image:  NetworkImage (
+[Image url]
+),
+),
+),
+child:  
+Center(
+// vectordT1 (32:254)
+child:  
+SizedBox(
+width:  20.61*fem,
+height:  23.1*fem,
+child:  
+Image.network(
+[Image url]
+width:  20.61*fem,
+height:  23.1*fem,
+),
+),
+),
+),
+Container(
+// autogroup32s7XoH (WFTw7py9uh9av6Tt7W32S7)
+padding:  EdgeInsets.fromLTRB(7*fem, 1*fem, 0*fem, 1*fem),
+height:  double.infinity,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// autogroupchudSQT (WFTvzFMT5wATvXSh6zChud)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 64*fem, 0*fem),
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// lesliealexanderZEB (32:255)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 5*fem),
+child:  
+Text(
+'Leslie Alexander',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  18*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2019999822*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+Text(
+// xyzconferencecenterrDH (32:256)
+'XYZ Conference Center...',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+],
+),
+),
+Container(
+// mar16NSX (32:257)
+margin:  EdgeInsets.fromLTRB(0*fem, 1*fem, 0*fem, 0*fem),
+child:  
+Text(
+'Mar 16',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+],
+),
+),
+],
+),
+),
+Container(
+// line74KM (32:258)
+margin:  EdgeInsets.fromLTRB(46*fem, 0*fem, 0*fem, 28*fem),
+width:  299*fem,
+height:  1*fem,
+decoration:  BoxDecoration (
+color:  Color(0xffb8b8b8),
+),
+),
+Container(
+// autogroup7f3yNL3 (WFTwQz9ENDtD99C6Hb7F3y)
+margin:  EdgeInsets.fromLTRB(13*fem, 0*fem, 27*fem, 14*fem),
+width:  double.infinity,
+height:  51*fem,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// autogrouprf7hTMV (WFTwiPotg8Tt9RknEJrf7h)
+padding:  EdgeInsets.fromLTRB(16*fem, 12*fem, 17.39*fem, 15.9*fem),
+height:  double.infinity,
+decoration:  BoxDecoration (
+image:  DecorationImage (
+fit:  BoxFit.cover,
+image:  NetworkImage (
+[Image url]
+),
+),
+),
+child:  
+Center(
+// vectorkLb (32:260)
+child:  
+SizedBox(
+width:  20.61*fem,
+height:  23.1*fem,
+child:  
+Image.network(
+[Image url]
+width:  20.61*fem,
+height:  23.1*fem,
+),
+),
+),
+),
+Container(
+// autogroup826f46P (WFTx6oLE1ZxWkV33Zg826f)
+padding:  EdgeInsets.fromLTRB(7*fem, 1*fem, 0*fem, 1*fem),
+height:  double.infinity,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// autogroupvaefa4j (WFTwrJkNdiujWeZGvzvaEf)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 73*fem, 0*fem),
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// guyhawkins356635 (32:261)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 5*fem),
+child:  
+Text(
+'GuyHawkins356',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  18*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2019999822*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+Text(
+// deadlineforsubmittingBKR (32:262)
+'deadline for submitting?',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+],
+),
+),
+Container(
+// mar4Vb1 (32:263)
+margin:  EdgeInsets.fromLTRB(0*fem, 1*fem, 0*fem, 0*fem),
+child:  
+Text(
+'Mar 4',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+],
+),
+),
+],
+),
+),
+Container(
+// line8Nuh (32:264)
+margin:  EdgeInsets.fromLTRB(46*fem, 0*fem, 0*fem, 20*fem),
+width:  299*fem,
+height:  1*fem,
+decoration:  BoxDecoration (
+color:  Color(0xffb8b8b8),
+),
+),
+Container(
+// autogroup3r8oVDd (WFTxRscmzeqqd2WFyH3R8o)
+margin:  EdgeInsets.fromLTRB(14*fem, 0*fem, 19*fem, 14*fem),
+width:  double.infinity,
+height:  51*fem,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// autogroupv4sfNoD (WFTxgchDDsjfe6pWNav4Sf)
+padding:  EdgeInsets.fromLTRB(16*fem, 12*fem, 17.39*fem, 15.9*fem),
+height:  double.infinity,
+decoration:  BoxDecoration (
+image:  DecorationImage (
+fit:  BoxFit.cover,
+image:  NetworkImage (
+[Image url]
+),
+),
+),
+child:  
+Center(
+// vectorfXR (32:266)
+child:  
+SizedBox(
+width:  20.61*fem,
+height:  23.1*fem,
+child:  
+Image.network(
+[Image url]
+width:  20.61*fem,
+height:  23.1*fem,
+),
+),
+),
+),
+Container(
+// autogroupz7a3jnB (WFTxw2SsKGAmHXMT5iZ7A3)
+padding:  EdgeInsets.fromLTRB(7*fem, 1*fem, 0*fem, 1*fem),
+height:  double.infinity,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// autogroupscdhFEj (WFTxmXigxx2weTbFqgscDH)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 30*fem, 0*fem),
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// jacobjones455ZFR (32:267)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 5*fem),
+child:  
+Text(
+'JacobJones_455',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  18*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2019999822*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+Text(
+// necessaryformsbyapril30thEcT (32:268)
+'necessary forms by April 30th',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+],
+),
+),
+Container(
+// feb20Yt3 (32:269)
+margin:  EdgeInsets.fromLTRB(0*fem, 1*fem, 0*fem, 0*fem),
+child:  
+Text(
+'Feb 20',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+],
+),
+),
+],
+),
+),
+Container(
+// line9FXZ (32:270)
+margin:  EdgeInsets.fromLTRB(48*fem, 0*fem, 0*fem, 32*fem),
+width:  299*fem,
+height:  1*fem,
+decoration:  BoxDecoration (
+color:  Color(0xffb8b8b8),
+),
+),
+Container(
+// autogroupa96jxwm (WFTyCgfSfXq6q94ne1a96j)
+margin:  EdgeInsets.fromLTRB(13*fem, 0*fem, 22*fem, 14*fem),
+width:  double.infinity,
+height:  51*fem,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// autogroupwq2fdo1 (WFTyS6SmMQt1McFpGcWQ2f)
+padding:  EdgeInsets.fromLTRB(16*fem, 12*fem, 17.39*fem, 15.9*fem),
+height:  double.infinity,
+decoration:  BoxDecoration (
+image:  DecorationImage (
+fit:  BoxFit.cover,
+image:  NetworkImage (
+[Image url]
+),
+),
+),
+child:  
+Center(
+// vectoriZZ (32:296)
+child:  
+SizedBox(
+width:  20.61*fem,
+height:  23.1*fem,
+child:  
+Image.network(
+[Image url]
+width:  20.61*fem,
+height:  23.1*fem,
+),
+),
+),
+),
+Container(
+// autogroupkrfmQSP (WFTyfLZhUNhYhFZC48KrfM)
+padding:  EdgeInsets.fromLTRB(7*fem, 1*fem, 0*fem, 1*fem),
+height:  double.infinity,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// autogroupemcoWkK (WFTyWg9TxeiYzKFG3YEMCo)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 102*fem, 0*fem),
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// estherhoward1dK9 (32:297)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 5*fem),
+child:  
+Text(
+'Esther_Howard1',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  18*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2019999822*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+Text(
+// reminderWtj (32:298)
+'Reminder!!...\n',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+],
+),
+),
+Container(
+// feb17diT (32:299)
+margin:  EdgeInsets.fromLTRB(0*fem, 1*fem, 0*fem, 0*fem),
+child:  
+Text(
+'Feb 17',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+],
+),
+),
+],
+),
+),
+Container(
+// line14KLP (32:300)
+margin:  EdgeInsets.fromLTRB(46*fem, 0*fem, 0*fem, 35*fem),
+width:  299*fem,
+height:  1*fem,
+decoration:  BoxDecoration (
+color:  Color(0xffb8b8b8),
+),
+),
+Container(
+// autogroupqg8b2Vh (WFTyxQuaeSpVKtLaJfqg8b)
+width:  390*fem,
+height:  91*fem,
+child:  
+Stack(
+children:  [
+Positioned(
+// ellipse10LFV (32:277)
+left:  18*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  54*fem,
+height:  51*fem,
+child:  
+Image.network(
+[Image url]
+width:  54*fem,
+height:  51*fem,
+),
+),
+),
+),
+Positioned(
+// vectorC2o (32:278)
+left:  34*fem,
+top:  12*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  20.61*fem,
+height:  23.1*fem,
+child:  
+Image.network(
+[Image url]
+width:  20.61*fem,
+height:  23.1*fem,
+),
+),
+),
+),
+Positioned(
+// annetteblack56b (32:279)
+left:  79*fem,
+top:  1*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  126*fem,
+height:  22*fem,
+child:  
+Text(
+'Annette_Black',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  18*ffem,
+fontWeight:  FontWeight.w600,
+height:  1.2019999822*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+),
+),
+Positioned(
+// detailsareattachedYF5 (32:280)
+left:  79*fem,
+top:  28*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  159*fem,
+height:  19*fem,
+child:  
+Text(
+'Details are attached....',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+),
+Positioned(
+// feb9bUF (32:281)
+left:  323*fem,
+top:  2*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  40*fem,
+height:  19*fem,
+child:  
+Text(
+'Feb 9',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+),
+Positioned(
+// group31sgf (94:634)
+left:  0*fem,
+top:  12*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  390*fem,
+height:  79*fem,
+child:  
+Image.network(
+[Image url]
+width:  390*fem,
+height:  79*fem,
+),
+),
+),
+),
+],
+),
+),
+],
+),
+),
+),
+Container(
+// frame36hYf (117:11)
+width:  double.infinity,
+height:  844*fem,
+child:  
+Container(
+// group7znf (117:12)
+width:  double.infinity,
+height:  double.infinity,
+decoration:  BoxDecoration (
+image:  DecorationImage (
+fit:  BoxFit.cover,
+image:  NetworkImage (
+[Image url]
+),
+),
+),
+child:  
+Container(
+// group65p7 (117:14)
+width:  double.infinity,
+height:  650*fem,
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.start,
+children:  [
+Container(
+// autogroupf5esPpo (WFUMgnhUiGJFX8KZnCf5Es)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 14*fem),
+width:  390*fem,
+height:  177*fem,
+child:  
+Image.network(
+[Image url]
+width:  390*fem,
+height:  177*fem,
+),
+),
+Container(
+// milliebrown431F6K (119:78)
+margin:  EdgeInsets.fromLTRB(46*fem, 0*fem, 0*fem, 0*fem),
+child:  
+Text(
+'MillieBrown431',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  23*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.201999996*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+Container(
+// autogroupfrhzhj1 (WFUNNbtUMcNZ8UAX4HfrHZ)
+padding:  EdgeInsets.fromLTRB(11*fem, 36*fem, 12*fem, 0*fem),
+width:  double.infinity,
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// autogroupxa1rDBZ (WFUMssDMTJ83S33TZZxA1R)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 23*fem),
+width:  double.infinity,
+height:  33*fem,
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// autogroupqfd5Jio (WFUN2wnZPKBT735XBsqfD5)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 29*fem, 0*fem),
+width:  169*fem,
+height:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffd96800),
+borderRadius:  BorderRadius.circular(16*fem),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(5*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+child:  
+Center(
+child:  
+Text(
+'Follow',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  21*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+),
+Container(
+// autogrouprpessfR (WFUN9MmYEeZ1nps9GmrPes)
+width:  169*fem,
+height:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xff85cddd),
+borderRadius:  BorderRadius.circular(16*fem),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(5*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+child:  
+Center(
+child:  
+Text(
+'Message',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  21*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xffffffff),
+),
+),
+),
+),
+],
+),
+),
+Container(
+// khayabanesuhrwardyoppositeconv (117:23)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 26*fem, 50*fem),
+constraints:  BoxConstraints (
+maxWidth:  309*fem,
+),
+child:  
+RichText(
+text:  
+TextSpan(
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  14*ffem,
+fontWeight:  FontWeight.w500,
+height:  1.202000073*ffem/fem,
+color:  Color(0xff383838),
+),
+children:  [
+TextSpan(
+text:  'Khayaban-e-Suhrwardy, Opposite Convention Centre,, Islamabad 44000Islamabad, ',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  14*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.202000073*ffem/fem,
+color:  Color(0xff383838),
+),
+),
+TextSpan(
+text:  'Pakistan',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  14*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.202000073*ffem/fem,
+decoration:  TextDecoration.underline,
+color:  Color(0xff383838),
+decorationColor:  Color(0xff383838),
+),
+),
+],
+),
+),
+),
+Container(
+// group39Toy (119:77)
+margin:  EdgeInsets.fromLTRB(7*fem, 0*fem, 7*fem, 0*fem),
+width:  double.infinity,
+height:  255*fem,
+child:  
+Stack(
+children:  [
+Positioned(
+// group40mJs (119:79)
+left:  64.8623046875*fem,
+top:  28*fem,
+child:  
+Container(
+width:  225.33*fem,
+height:  23*fem,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(3*fem),
+),
+child:  
+Stack(
+children:  [
+Positioned(
+// rectangle3431V (117:24)
+left:  13.7700195312*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  211.56*fem,
+height:  23*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(3*fem),
+border:  Border.all(color Color(0xff000000)),
+color:  Color(0xffd9d9d9),
+),
+),
+),
+),
+),
+Positioned(
+// organizedeventsVeB (117:25)
+left:  50.1639404297*fem,
+top:  3*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  125*fem,
+height:  19*fem,
+child:  
+Text(
+'Organized Events',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+),
+),
+),
+],
+),
+),
+),
+Positioned(
+// digitalmarketingbootcampconfer (117:41)
+left:  73.5*fem,
+top:  79*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  206*fem,
+height:  37*fem,
+child:  
+RichText(
+textAlign:  TextAlign.center,
+text:  
+TextSpan(
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xff000000),
+),
+children:  [
+TextSpan(
+text:  'Digital Marketing Bootcamp\n',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+TextSpan(
+text:  '• Conference • Researchfora',
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// womenintechseminarconferencere (117:42)
+left:  72.0208740234*fem,
+top:  175*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  206*fem,
+height:  37*fem,
+child:  
+RichText(
+textAlign:  TextAlign.center,
+text:  
+TextSpan(
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xff000000),
+),
+children:  [
+TextSpan(
+text:  'Women in Tech Seminar\n',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.2020000458*ffem/fem,
+color:  Color(0xff000000),
+),
+),
+TextSpan(
+text:  '• Conference • Researchfora',
+),
+],
+),
+),
+),
+),
+),
+Positioned(
+// rectangle10z2X (117:43)
+left:  0*fem,
+top:  0*fem,
+child:  
+Align(
+child:  
+SizedBox(
+width:  353*fem,
+height:  255*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(3*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+),
+),
+),
+),
+],
+),
+),
+],
+),
+),
+],
+),
+),
+),
+),
+Container(
+// frame39Usm (120:246)
+padding:  EdgeInsets.fromLTRB(15*fem, 78*fem, 16*fem, 72*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffffffff),
+),
+child:  
+Column(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// personalinformationUWP (120:247)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 2*fem, 67*fem),
+child:  
+Text(
+'Personal Information',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  27*ffem,
+fontWeight:  FontWeight.w700,
+height:  1.2020000882*ffem/fem,
+color:  Color(0xff00343f),
+),
+),
+),
+Container(
+// autogrouprb8xHyd (WFUWFnvLzRJatbosMvrb8X)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 1*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Full Name',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroupuuq7hnT (WFUWPnh2EUN7rEZBzAUuQ7)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Email',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroups2dq875 (WFUWXXy7d9ac2dU2qmS2Dq)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 1*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Phone Number',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroupuwrb6TD (WFUWecbek9sdTipGK1uwrb)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 20*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Password',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// autogroupquljgRR (WFUWmcPzahYyJQDfriqULj)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 148*fem),
+padding:  EdgeInsets.fromLTRB(17*fem, 17*fem, 17*fem, 19*fem),
+width:  358*fem,
+decoration:  BoxDecoration (
+border:  Border.all(color Color(0xffababab)),
+borderRadius:  BorderRadius.circular(4*fem),
+),
+child:  
+Text(
+'Confirm Password',
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+Container(
+// group42AE7 (120:260)
+margin:  EdgeInsets.fromLTRB(1*fem, 0*fem, 10*fem, 43*fem),
+padding:  EdgeInsets.fromLTRB(8*fem, 0*fem, 8*fem, 0*fem),
+width:  double.infinity,
+height:  36*fem,
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(8*fem),
+),
+child:  
+Row(
+crossAxisAlignment:  CrossAxisAlignment.center,
+children:  [
+Container(
+// autogroupakxt1kX (WFUXH6Ys39LdLYrAfLakxT)
+margin:  EdgeInsets.fromLTRB(0*fem, 0*fem, 192*fem, 0*fem),
+width:  70*fem,
+height:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0x82d9d9d9),
+borderRadius:  BorderRadius.circular(8*fem),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+child:  
+Center(
+child:  
+Text(
+'Back',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+Container(
+// autogroup8jdhm7R (WFUXNqtHconjH35BMt8JDH)
+width:  70*fem,
+height:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0x82d9d9d9),
+borderRadius:  BorderRadius.circular(8*fem),
+boxShadow:  [
+BoxShadow(
+color:  Color(0x3f000000),
+offset:  Offset(0*fem, 4*fem),
+blurRadius:  2*fem,
+),
+],
+),
+child:  
+Center(
+child:  
+Text(
+'Next',
+textAlign:  TextAlign.center,
+style:  SafeGoogleFont (
+'Inter',
+fontSize:  15*ffem,
+fontWeight:  FontWeight.w400,
+height:  1.2125*ffem/fem,
+color:  Color(0xff333232),
+),
+),
+),
+),
+],
+),
+),
+Container(
+// autogroupcbgfPPh (WFUWtXN98ncdYfgFUtCbgF)
+margin:  EdgeInsets.fromLTRB(70*fem, 0*fem, 69*fem, 0*fem),
+padding:  EdgeInsets.fromLTRB(3*fem, 0*fem, 3*fem, 0*fem),
+width:  double.infinity,
+decoration:  BoxDecoration (
+color:  Color(0xffd9d9d9),
+borderRadius:  BorderRadius.circular(47*fem),
+),
+child:  
+Align(
+// rectangle53sZm (120:259)
+alignment:  Alignment.centerLeft,
+child:  
+SizedBox(
+width:  61*fem,
+height:  12*fem,
+child:  
+Container(
+decoration:  BoxDecoration (
+borderRadius:  BorderRadius.circular(47*fem),
+color:  Color(0xff006177),
+),
+),
+),
+),
+),
+],
+),
+),
+
